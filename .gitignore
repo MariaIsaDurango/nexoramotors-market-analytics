@@ -217,16 +217,19 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Archivos del entorno virtual
+# Jupyter
+.ipynb_checkpoints/
+
+# Entorno virtual
 venv/
 env/
-
-# Archivos temporales de Jupyter
-.ipynb_checkpoints/
 
 # Variables de entorno
 .env
 
-# Cache de Python
+# Cache Python
 __pycache__/
 *.pyc
+
+# Power BI caché temporal
+*.tmp
