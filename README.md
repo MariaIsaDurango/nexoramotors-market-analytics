@@ -65,5 +65,5 @@ escritorio con capacidad de publicación en Power BI Service.
 ---
 
 ## 👤 Autor
-
+**María Isabel Durango Pérez**  
 Proyecto individual — Módulo II: Análisis y Visualización de Datos
