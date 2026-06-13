@@ -1,0 +1,499 @@
+marca,modelo,ano_vehic,antiguedad,rango_antiguedad,km,combustible,puertas,cv,transmision,ubicacion,particular,precio,segmento_precio,precio_por_cv,stats_visto,stats_favorito,stats_contactado,engagement_score
+SEAT,LEON 1. 9 TDI 150CV SPORT FORMULA RACING,2004.0,17,Clásico (>12a),241.665,Diesel,5.0,150.0,manual,Alicante,Profesional,3.9,Económico (<5K),26.0,7212,8,2,4046.0
+AUDI,A6,2005.0,16,Clásico (>12a),188.212,Diesel,5.0,140.0,manual,Almería,Particular,5.7,Accesible (5-10K),40.71,22604,11,0,11632.0
+MERCEDES-BENZ,CLASE E E 220 D,2017.0,4,Reciente (4-7a),114.0,Diesel,4.0,194.0,automat,Asturias,Profesional,33.9,Premium (20-35K),174.74,2786,0,0,1393.0
+OPEL,CROSSLAND X,2020.0,1,Casi nuevo (0-3a),2.553,Gasolina,5.0,110.0,manual,Cantabria,Profesional,14.49,Medio (10-20K),131.73,662,0,0,331.0
+RENAULT,CLIO DYNAMIQUE ENERGY DCI 90 SS ECO2,2014.0,7,Reciente (4-7a),104.5,Diesel,5.0,90.0,manual,Madrid,Profesional,6.9,Accesible (5-10K),76.67,1558,4,0,899.0
+CITROEN,BERLINGO TALLA M BLUEHDI 100 LIVE,2018.0,3,Casi nuevo (0-3a),68.0,Diesel,4.0,100.0,manual,Barcelona,Profesional,12.7,Medio (10-20K),127.0,5678,1,0,2869.0
+OPEL,CROSSLAND X,2020.0,1,Casi nuevo (0-3a),10.0,Gasolina,5.0,110.0,manual,Cantabria,Profesional,15.49,Medio (10-20K),140.82,1535,0,0,768.0
+OPEL,ASTRA 1. 2T SHL 81KW 110CV GS LINE,2019.0,2,Casi nuevo (0-3a),2.175,Gasolina,5.0,110.0,manual,Cantabria,Profesional,13.99,Medio (10-20K),127.18,1685,0,0,842.0
+OPEL,ASTRA 1. 2T SHL 81KW 110CV GS LINE ST,2020.0,1,Casi nuevo (0-3a),10.0,Gasolina,5.0,110.0,manual,Cantabria,Profesional,14.99,Medio (10-20K),136.27,1656,0,0,828.0
+SUZUKI,IGNIS 1. 2 GLE MILD HYBRID,2020.0,1,Casi nuevo (0-3a),5.0,Híbrido,5.0,90.0,manual,Cantabria,Profesional,11.99,Medio (10-20K),133.22,1952,7,0,1186.0
+OPEL,CROSSLAND X,2020.0,1,Casi nuevo (0-3a),10.0,Gasolina,5.0,110.0,manual,Cantabria,Profesional,15.49,Medio (10-20K),140.82,1481,0,0,740.0
+OPEL,CORSAE,2020.0,1,Casi nuevo (0-3a),5.0,Híbrido,5.0,136.0,automat,Cantabria,Profesional,23.99,Premium (20-35K),176.4,1114,0,0,557.0
+OPEL,ASTRA 1. 5D DVH 90KW 122CV GS LINE,2021.0,0,Casi nuevo (0-3a),10.0,Diesel,5.0,122.0,manual,Cantabria,Profesional,16.49,Medio (10-20K),135.16,1266,0,0,633.0
+OPEL,KARL 1. 0 SELECTIVE,2016.0,5,Reciente (4-7a),95.36,Gasolina,5.0,75.0,manual,Cantabria,Profesional,6.49,Accesible (5-10K),86.53,2152,0,0,1076.0
+FIAT,PUNTO 1. 3 MULTIJET 16V 90 SPORT,2009.0,12,Seminuevo (8-12a),75.0,Diesel,5.0,90.0,manual,Barcelona,Profesional,5.1,Accesible (5-10K),56.67,7475,0,0,3738.0
+FORD,TOURNEO COURIER 1. 5 TDCI 75CV TREND,2015.0,6,Reciente (4-7a),105.0,Diesel,5.0,75.0,manual,Barcelona,Profesional,8.4,Accesible (5-10K),112.0,7555,3,0,3868.0
+CITROEN,C4 PICASSO 1. 6 VTI 120CV SEDUCTION,2012.0,9,Seminuevo (8-12a),110.0,Gasolina,5.0,120.0,manual,Zaragoza,Profesional,5.9,Accesible (5-10K),49.17,3512,3,2,2046.0
+AUDI,Q5 2. 0 TDI 140KW 190CV QUATTRO S TRONIC,2017.0,4,Reciente (4-7a),188.0,Diesel,5.0,190.0,automat,Zaragoza,Profesional,23.958,Premium (20-35K),126.09,15407,1,0,7734.0
+OPEL,CORSAE,2020.0,1,Casi nuevo (0-3a),10.0,Híbrido,5.0,136.0,automat,Cantabria,Profesional,24.99,Premium (20-35K),183.75,4847,0,0,2424.0
+BMW,SERIE 5 530DA XDRIVE TOURING,2013.0,8,Seminuevo (8-12a),207.0,Diesel,5.0,258.0,automat,Asturias,Profesional,14.9,Medio (10-20K),57.75,141808,11,0,71234.0
+CITROEN,C4 1. 6 EHDI 110CV EXCLUSIVE,2012.0,9,Seminuevo (8-12a),130.0,Diesel,5.0,112.0,manual,Zaragoza,Profesional,6.8,Accesible (5-10K),60.71,17540,2,0,8830.0
+SSANGYONG,KORANDO D20T LINE 4X2,2014.0,7,Reciente (4-7a),110.0,Diesel,5.0,175.0,manual,Barcelona,Profesional,11.8,Medio (10-20K),67.43,27725,1,0,13892.0
+MERCEDES-BENZ,GLA GLA 200 D,2020.0,1,Casi nuevo (0-3a),12.0,Diesel,5.0,150.0,automat,Asturias,Profesional,33.9,Premium (20-35K),226.0,2691,0,0,1346.0
+FORD,FIESTA 1. 4 TDCI TREND,2008.0,13,Clásico (>12a),130.0,Diesel,5.0,68.0,manual,Zaragoza,Profesional,3.15,Económico (<5K),46.32,2653,0,0,1326.0
+OPEL,ASTRA 1. 2T SHL 81KW 110CV GS LINE,2019.0,2,Casi nuevo (0-3a),1.79,Gasolina,5.0,110.0,manual,Cantabria,Profesional,13.99,Medio (10-20K),127.18,1589,0,0,794.0
+OPEL,ASTRA 1. 2T SHL 81KW 110CV GS LINE,2019.0,2,Casi nuevo (0-3a),14.665,Gasolina,5.0,110.0,manual,Cantabria,Profesional,13.99,Medio (10-20K),127.18,1545,0,0,772.0
+OPEL,ASTRA 1. 2T SHL 81KW 110CV GS LINE,2019.0,2,Casi nuevo (0-3a),5.215,Gasolina,5.0,110.0,manual,Cantabria,Profesional,13.99,Medio (10-20K),127.18,1445,0,0,722.0
+OPEL,CROSSLAND X,2019.0,2,Casi nuevo (0-3a),14.86,Gasolina,5.0,130.0,manual,Cantabria,Profesional,13.99,Medio (10-20K),107.62,1056,0,0,528.0
+OPEL,ASTRA 1. 2T SHL 81KW 110CV GS LINE,2019.0,2,Casi nuevo (0-3a),10.587,Gasolina,5.0,110.0,manual,Cantabria,Profesional,13.99,Medio (10-20K),127.18,1238,0,0,619.0
+OPEL,CROSSLAND X,2020.0,1,Casi nuevo (0-3a),10.0,Gasolina,5.0,110.0,manual,Cantabria,Profesional,15.49,Medio (10-20K),140.82,1183,0,0,592.0
+OPEL,ASTRA 1. 2T SHL 81KW 110CV GS LINE,2019.0,2,Casi nuevo (0-3a),4.578,Gasolina,5.0,110.0,manual,Cantabria,Profesional,13.99,Medio (10-20K),127.18,1301,0,0,650.0
+CITROEN,C3 AIRCROSS,2018.0,3,Casi nuevo (0-3a),22.276,Diesel,5.0,120.0,manual,Barcelona,Profesional,15.45,Medio (10-20K),128.75,3975,0,1,2088.0
+OPEL,ASTRA 1. 4T SHT 107KW 145CV ELEGANCE CVT,2019.0,2,Casi nuevo (0-3a),15.0,Gasolina,5.0,145.0,automat,Cantabria,Profesional,16.99,Medio (10-20K),117.17,1266,1,0,663.0
+OPEL,CROSSLAND X,2019.0,2,Casi nuevo (0-3a),6.664,Gasolina,5.0,130.0,manual,Cantabria,Profesional,13.49,Medio (10-20K),103.77,926,0,0,463.0
+OPEL,ASTRA 1. 5D DVH 90KW 122CV GS LINE,2019.0,2,Casi nuevo (0-3a),7.582,Diesel,5.0,122.0,manual,Cantabria,Profesional,14.99,Medio (10-20K),122.87,1251,0,0,626.0
+OPEL,ASTRA 1. 2T SHL 81KW 110CV GS LINE,2019.0,2,Casi nuevo (0-3a),8.578,Gasolina,5.0,110.0,manual,Cantabria,Profesional,13.99,Medio (10-20K),127.18,1364,0,1,782.0
+OPEL,GRANDLAND X PHEV,2019.0,2,Casi nuevo (0-3a),5.0,Híbrido,5.0,200.0,automat,Cantabria,Profesional,33.99,Premium (20-35K),169.95,1078,0,0,539.0
+OPEL,ASTRA 1. 5D DVC 77KW 105CV GS LINE,2019.0,2,Casi nuevo (0-3a),7.936,Diesel,5.0,105.0,manual,Cantabria,Profesional,13.99,Medio (10-20K),133.24,1329,0,0,664.0
+OPEL,INSIGNIA GS BUSINESS ELEGANCE 1. 5D DVH 90KW AT8,2020.0,1,Casi nuevo (0-3a),10.0,Diesel,5.0,122.0,automat,Cantabria,Profesional,23.99,Premium (20-35K),196.64,741,0,0,370.0
+SUZUKI,SWIFT 1. 4 T SPORT MILD HYBRID,2020.0,1,Casi nuevo (0-3a),6.715,Híbrido,5.0,129.0,manual,Cantabria,Profesional,16.99,Medio (10-20K),131.71,2263,2,1,1292.0
+OPEL,CORSAE,2019.0,2,Casi nuevo (0-3a),10.07,Híbrido,5.0,136.0,automat,Cantabria,Profesional,20.99,Premium (20-35K),154.34,1127,0,0,564.0
+OPEL,ASTRA 1. 2T SHL 81KW 110CV GS LINE ST,2020.0,1,Casi nuevo (0-3a),10.0,Gasolina,5.0,110.0,manual,Cantabria,Profesional,14.99,Medio (10-20K),136.27,1382,0,0,691.0
+OPEL,CORSAE,2020.0,1,Casi nuevo (0-3a),5.0,Híbrido,5.0,136.0,automat,Cantabria,Profesional,19.99,Medio (10-20K),146.99,874,0,0,437.0
+OPEL,CROSSLAND X,2020.0,1,Casi nuevo (0-3a),10.0,Gasolina,5.0,110.0,manual,Cantabria,Profesional,15.49,Medio (10-20K),140.82,1067,0,0,534.0
+OPEL,CROSSLAND X,2020.0,1,Casi nuevo (0-3a),10.0,Gasolina,5.0,110.0,manual,Cantabria,Profesional,15.49,Medio (10-20K),140.82,1061,0,0,530.0
+RENAULT,KADJAR ZEN ENERGY DCI 130,2016.0,5,Reciente (4-7a),49.0,Diesel,5.0,130.0,manual,Zaragoza,Profesional,15.39,Medio (10-20K),118.38,4364,1,0,2212.0
+OPEL,GRANDLAND X,2020.0,1,Casi nuevo (0-3a),10.0,Diesel,5.0,130.0,manual,Cantabria,Profesional,19.99,Medio (10-20K),153.77,1063,0,0,532.0
+SUZUKI,SCROSS 1. 4 DITC GLX 4WD MID HYBRID,2020.0,1,Casi nuevo (0-3a),9.04,Híbrido,5.0,129.0,manual,Cantabria,Profesional,19.99,Medio (10-20K),154.96,1384,0,0,692.0
+OPEL,ASTRA 1. 5D DVH 90KW 122CV GS LINE,2021.0,0,Casi nuevo (0-3a),10.0,Diesel,5.0,122.0,manual,Cantabria,Profesional,16.49,Medio (10-20K),135.16,1060,0,0,530.0
+OPEL,ASTRA 1. 5D DVH 90KW 122CV GS LINE,2021.0,0,Casi nuevo (0-3a),10.0,Diesel,5.0,122.0,manual,Cantabria,Profesional,16.49,Medio (10-20K),135.16,1018,0,0,509.0
+OPEL,ASTRA 1. 5D DVH 90KW 122CV GS LINE,2021.0,0,Casi nuevo (0-3a),10.0,Diesel,5.0,122.0,manual,Cantabria,Profesional,16.49,Medio (10-20K),135.16,1001,0,0,500.0
+OPEL,ZAFIRA LIFE,2020.0,1,Casi nuevo (0-3a),10.0,Diesel,5.0,120.0,manual,Cantabria,Profesional,49.99,Lujo (>35K),416.58,2501,0,0,1250.0
+BMW,SERIE 1 116D,2015.0,6,Reciente (4-7a),34.326,Diesel,5.0,116.0,manual,Madrid,Profesional,13.9,Medio (10-20K),119.83,3669,1,0,1864.0
+NISSAN,QASHQAI 1. 6 ACENTA 4X2,2008.0,13,Clásico (>12a),180.0,Gasolina,5.0,115.0,manual,Zaragoza,Profesional,5.9,Accesible (5-10K),51.3,3218,1,0,1639.0
+SUZUKI,ACROSS,2021.0,0,Casi nuevo (0-3a),10.0,Híbrido,5.0,306.0,automat,Cantabria,Profesional,39.99,Lujo (>35K),130.69,2975,0,0,1488.0
+OPEL,INSIGNIA ST 1. 6 CDTI 100KW TURBO D INNOVATION,2019.0,2,Casi nuevo (0-3a),17.5,Diesel,5.0,136.0,manual,Cantabria,Profesional,21.99,Premium (20-35K),161.69,2423,0,0,1212.0
+PEUGEOT,508 HYBRID,2020.0,1,Casi nuevo (0-3a),7.0,Híbrido,5.0,225.0,automat,Cantabria,Profesional,31.9,Premium (20-35K),141.78,1914,0,0,957.0
+PEUGEOT,308 5P STYLE 1. 6 BLUEHDI 88KW 120CV,2017.0,4,Reciente (4-7a),258.0,Diesel,5.0,120.0,manual,Zaragoza,Profesional,6.55,Accesible (5-10K),54.58,8778,1,0,4419.0
+SEAT,LEON 1. 6 TDI 105CV STYLE COPA,2011.0,10,Seminuevo (8-12a),67.0,Diesel,5.0,105.0,manual,Barcelona,Profesional,7.8,Accesible (5-10K),74.29,6350,2,1,3335.0
+SEAT,ALTEA 1. 4 TSI 125CV STYLE,2013.0,8,Seminuevo (8-12a),59.0,Gasolina,5.0,125.0,manual,Zaragoza,Profesional,7.35,Accesible (5-10K),58.8,16828,4,0,8534.0
+SMART,FORTWO COUPE 52 MHD BOCONCEPT,2015.0,6,Reciente (4-7a),33.8,Gasolina,3.0,71.0,manual,Cantabria,Profesional,9.49,Accesible (5-10K),133.66,6575,0,1,3388.0
+OPEL,MOKKA X 1. 6 CDTI 100KW 4X2 SS EXCELLENCE,2018.0,3,Casi nuevo (0-3a),84.285,Diesel,5.0,136.0,manual,Cantabria,Profesional,13.5,Medio (10-20K),99.26,4327,2,0,2224.0
+BMW,SERIE 2 M240IA XDRIVE,2017.0,4,Reciente (4-7a),54.964,Gasolina,2.0,340.0,automat,Pontevedra,Profesional,39.9,Lujo (>35K),117.35,7651,0,0,3826.0
+FORD,CMAX 1. 0 ECOBOOST 125 AUTO STARTSTOP EDITION,2014.0,7,Reciente (4-7a),45.0,Gasolina,5.0,125.0,manual,Zaragoza,Profesional,7.9,Accesible (5-10K),63.2,17333,0,0,8666.0
+OPEL,CROSSLAND,2020.0,1,Casi nuevo (0-3a),10.0,Diesel,5.0,120.0,automat,Cantabria,Profesional,17.49,Medio (10-20K),145.75,3760,0,0,1880.0
+OPEL,MOKKA 1. 6 CDTI 4X2 SS SELECTIVE,2015.0,6,Reciente (4-7a),133.4,Diesel,5.0,136.0,manual,Madrid,Profesional,9.9,Accesible (5-10K),72.79,9441,2,0,4780.0
+RENAULT,LAGUNA EMOTION DCI 110 ECO2,2015.0,6,Reciente (4-7a),52.0,Diesel,5.0,110.0,manual,Barcelona,Profesional,9.95,Accesible (5-10K),90.45,34067,1,0,17064.0
+PEUGEOT,508 HYBRID,2020.0,1,Casi nuevo (0-3a),30.5,Híbrido,5.0,225.0,automat,Cantabria,Profesional,26.99,Premium (20-35K),119.96,13937,1,0,6998.0
+PEUGEOT,308 5P ALLURE 1. 5 BLUEHDI 96KW 130CV,2018.0,3,Casi nuevo (0-3a),14.5,Diesel,5.0,130.0,manual,Cantabria,Profesional,16.99,Medio (10-20K),130.69,12336,1,0,6198.0
+PEUGEOT,E208,2020.0,1,Casi nuevo (0-3a),21.0,Híbrido,5.0,136.0,automat,Cantabria,Profesional,21.99,Premium (20-35K),161.69,10348,0,0,5174.0
+VOLKSWAGEN,PASSAT ALLTRACK 2. 0 TDI 190CV BMT 4MOTION DSG,2015.0,6,Reciente (4-7a),72.628,Diesel,5.0,190.0,automat,Madrid,Profesional,22.9,Premium (20-35K),120.53,21104,6,1,10832.0
+FORD,GALAXY 2. 0 TDCI 140CV DPF TITANIUM POWERSHIFT,2014.0,7,Reciente (4-7a),83.232,Diesel,5.0,140.0,automat,Madrid,Profesional,12.5,Medio (10-20K),89.29,24712,6,0,12536.0
+PEUGEOT,206PLUS 1. 1 60CV GENERATION,2012.0,9,Seminuevo (8-12a),131.184,Gasolina,3.0,60.0,manual,Madrid,Profesional,4.2,Económico (<5K),70.0,21329,0,0,10664.0
+FORD,MONDEO 2. 0 TDCI 140CV LIMITED EDITION,2015.0,6,Reciente (4-7a),85.463,Diesel,5.0,140.0,manual,Madrid,Profesional,12.5,Medio (10-20K),89.29,51935,7,0,26178.0
+SEAT,EXEO 1. 8 TSI 160 CV STYLE,2010.0,11,Seminuevo (8-12a),113.2,Gasolina,4.0,160.0,manual,Madrid,Profesional,5.9,Accesible (5-10K),36.88,2508,2,1,1414.0
+OPEL,ASTRA 1. 2T SHT 96KW 130CV GS LINE,2020.0,1,Casi nuevo (0-3a),10.0,Gasolina,5.0,130.0,manual,Cantabria,Profesional,16.49,Medio (10-20K),126.85,1488,0,0,744.0
+OPEL,ASTRA 1. 5D DVC 77KW 105CV 2020,2020.0,1,Casi nuevo (0-3a),3.0,Diesel,5.0,105.0,manual,Cantabria,Profesional,15.99,Medio (10-20K),152.29,1349,0,0,674.0
+OPEL,ASTRA 1. 2T SHL 81KW 110CV GS LINE ST,2020.0,1,Casi nuevo (0-3a),10.0,Gasolina,5.0,110.0,manual,Cantabria,Profesional,14.99,Medio (10-20K),136.27,1471,0,0,736.0
+OPEL,ASTRA 1. 2T SHL 81KW 110CV GS LINE ST,2020.0,1,Casi nuevo (0-3a),10.0,Gasolina,5.0,110.0,manual,Cantabria,Profesional,14.99,Medio (10-20K),136.27,1440,0,0,720.0
+OPEL,CROSSLAND X,2020.0,1,Casi nuevo (0-3a),10.0,Gasolina,5.0,110.0,manual,Cantabria,Profesional,15.49,Medio (10-20K),140.82,1078,0,0,539.0
+OPEL,CORSA 1. 5D DT 74KW 100CV ELEGANCE,2020.0,1,Casi nuevo (0-3a),9.049,Diesel,5.0,102.0,manual,Cantabria,Profesional,14.99,Medio (10-20K),146.96,1464,0,0,732.0
+PEUGEOT,508 SW ALLURE BLUEHDI 96KW130CV SS EAT8,2019.0,2,Casi nuevo (0-3a),31.614,Diesel,5.0,130.0,automat,Cantabria,Profesional,23.99,Premium (20-35K),184.54,1141,0,0,570.0
+TOYOTA,AVENSIS 2. 0 D4D SOL,2005.0,16,Clásico (>12a),130.0,Diesel,4.0,116.0,manual,Zaragoza,Profesional,3.3,Económico (<5K),28.45,3970,3,0,2075.0
+PEUGEOT,308 5P GT LINE 1. 2 PURETECH 130 SS EAT6,2015.0,6,Reciente (4-7a),60.321,Gasolina,5.0,130.0,automat,Cantabria,Profesional,11.99,Medio (10-20K),92.23,2376,3,0,1278.0
+OPEL,ASTRA 1. 2T SHT 96KW 130CV GS LINE,2020.0,1,Casi nuevo (0-3a),6.0,Gasolina,5.0,130.0,manual,Cantabria,Profesional,15.49,Medio (10-20K),119.15,5263,1,0,2662.0
+SUZUKI,SWACE,2020.0,1,Casi nuevo (0-3a),10.0,Híbrido,5.0,122.0,manual,Cantabria,Profesional,19.99,Medio (10-20K),163.85,9619,0,0,4810.0
+MERCEDES-BENZ,CLASE GLA GLA 220 D 4MATIC STYLE,2016.0,5,Reciente (4-7a),205.68,Diesel,5.0,177.0,automat,Sevilla,Profesional,16.89,Medio (10-20K),95.42,1400,0,1,800.0
+FORD,KUGA 2. 0 TDCI 140 4X4 TITANIUM POWERSHIFT,2013.0,8,Seminuevo (8-12a),132.669,Diesel,5.0,140.0,automat,Madrid,Profesional,12.9,Medio (10-20K),92.14,16464,3,1,8422.0
+CITROEN,C4 CACTUS BLUEHDI 100 SHINE,2015.0,6,Reciente (4-7a),113.2,Diesel,5.0,100.0,manual,Madrid,Profesional,8.5,Accesible (5-10K),85.0,22447,5,2,11574.0
+CITROEN,C3 PICASSO PURETECH 110 COLLECTION,2015.0,6,Reciente (4-7a),49.905,Gasolina,5.0,110.0,manual,Madrid,Profesional,9.5,Accesible (5-10K),86.36,53985,2,0,27052.0
+SEAT,CÓRDOBA,2006.0,15,Clásico (>12a),250.0,Diesel,5.0,100.0,manual,Caceres,Profesional,1.99,Económico (<5K),19.9,83814,4,1,42127.0
+FORD,MUSTANG,1994.0,27,Clásico (>12a),164.0,Gasolina,2.0,160.0,automat,Alicante,Profesional,2.999,Económico (<5K),18.74,529897,75,8,267998.0
+RENAULT,SCENIC CONFORT DYNAMIQUE 1. 9DCI,2004.0,17,Clásico (>12a),150.0,Diesel,5.0,120.0,manual,Valladolid,Profesional,4.6,Económico (<5K),38.33,27642,0,0,13821.0
+PEUGEOT,3008 HYBRID4,2012.0,9,Seminuevo (8-12a),84.5,Híbrido,5.0,200.0,automat,Albacete,Profesional,10.999,Medio (10-20K),55.0,17083,2,0,8602.0
+MINI,MINI ONE,2008.0,13,Clásico (>12a),135.0,Gasolina,3.0,95.0,manual,Valladolid,Profesional,6.9,Accesible (5-10K),72.63,39419,0,1,19810.0
+VOLKSWAGEN,GOLF 1. 9 TDI HIGHLINE DSG,2006.0,15,Clásico (>12a),175.0,Diesel,5.0,105.0,manual,Valladolid,Profesional,7.5,Accesible (5-10K),71.43,83731,10,1,42266.0
+RENAULT,ESPACE PRIVILEGE 2. 2 DCI 16V,2006.0,15,Clásico (>12a),145.0,Diesel,5.0,150.0,manual,Pontevedra,Profesional,4.99,Económico (<5K),33.27,153007,24,2,77424.0
+FORD,MONDEO 2. 0 TDCI 115 AMBIENTE,2003.0,18,Clásico (>12a),190.0,Diesel,5.0,115.0,manual,Valladolid,Profesional,4.0,Económico (<5K),34.78,164744,3,1,82562.0
+PORSCHE,PANAMERA 4 EHYBRID,2017.0,4,Reciente (4-7a),65.0,Híbrido,5.0,462.0,automat,Zaragoza,Profesional,89.999,Lujo (>35K),194.8,14335,1,1,7298.0
+TOYOTA,RAV4,2017.0,4,Reciente (4-7a),80.0,Híbrido,5.0,197.0,automat,Carrio,Particular,18.3,Medio (10-20K),92.89,77337,7,3,39178.0
+FORD,CMAX 1. 8 TDCI GHIA,2007.0,14,Clásico (>12a),135.0,Diesel,5.0,115.0,manual,Valladolid,Profesional,5.9,Accesible (5-10K),51.3,2239,0,0,1120.0
+PEUGEOT,5008 1. 2 PURETECH 96KW SS ALLURE PACK,2021.0,0,Casi nuevo (0-3a),82.6,Gasolina,5.0,130.0,manual,Malaga,Profesional,31.2,Premium (20-35K),240.0,9540,0,0,4770.0
+MERCEDES-BENZ,CLASE V 250 D MARCO POLO LARGO,2017.0,4,Reciente (4-7a),74.0,Diesel,4.0,204.0,automat,Alicante,Profesional,56.99,Lujo (>35K),279.36,4151,1,0,2106.0
+HYUNDAI,I30 1. 4 CRDI TECNO,2014.0,7,Reciente (4-7a),150.0,Diesel,5.0,90.0,manual,Madrid,Profesional,8.9,Accesible (5-10K),98.89,20491,0,0,10246.0
+VOLKSWAGEN,GOLF 2. 0 TDI 140CV HIGHLINE,2006.0,15,Clásico (>12a),180.0,Diesel,5.0,140.0,manual,Valladolid,Profesional,6.5,Accesible (5-10K),46.43,7497,3,0,3838.0
+PEUGEOT,208 5P ACCESS 1. 6 BLUEHDI 75,2016.0,5,Reciente (4-7a),98.0,Diesel,5.0,75.0,manual,Castellon,Profesional,8.3,Accesible (5-10K),110.67,3339,0,0,1670.0
+RENAULT,LAGUNA CONFORT DYNAMIQUE 1. 9DCI 120CV,2005.0,16,Clásico (>12a),169.0,Diesel,5.0,120.0,manual,Zaragoza,Profesional,2.999,Económico (<5K),24.99,7955,2,0,4038.0
+VOLKSWAGEN,TIGUAN 2. 0 TDI 170CV 4X4 SPORT,2012.0,9,Seminuevo (8-12a),168.0,Diesel,5.0,170.0,manual,Pontevedra,Profesional,13.3,Medio (10-20K),78.24,32385,3,1,16382.0
+SEAT,LEON 1. 2 TSI 81KW 110CV STSP STYLE,2018.0,3,Casi nuevo (0-3a),72.255,Gasolina,5.0,110.0,manual,Malaga,Profesional,11.5,Medio (10-20K),104.55,20959,1,0,10510.0
+VOLKSWAGEN,GOLF 2. 0 TDI 140CV DPF 4MOTION SPORT,2011.0,10,Seminuevo (8-12a),164.0,Diesel,5.0,140.0,manual,Pontevedra,Profesional,11.0,Medio (10-20K),78.57,36949,8,0,18714.0
+HYUNDAI,TUCSON 1. 6 CRDI 85KW 116CV 48V SLE 4X2,2020.0,1,Casi nuevo (0-3a),10.664,Híbrido,5.0,116.0,manual,Malaga,Profesional,21.4,Premium (20-35K),184.48,18346,0,0,9173.0
+HYUNDAI,IONIQ 1. 6 GDI HEV TECNO DCT,2019.0,2,Casi nuevo (0-3a),8.939,Híbrido,5.0,141.0,automat,Malaga,Profesional,18.8,Medio (10-20K),133.33,12741,1,0,6400.0
+AUDI,A4 2. 5 TDI 180CV QUATTRO,2003.0,18,Clásico (>12a),240.0,Diesel,4.0,180.0,manual,Valladolid,Profesional,4.9,Económico (<5K),27.22,46054,5,1,23277.0
+VOLKSWAGEN,TOURAN 2. 0 TDI 140CV SPORT,2011.0,10,Seminuevo (8-12a),149.0,Diesel,5.0,140.0,manual,Pontevedra,Profesional,11.5,Medio (10-20K),82.14,30274,9,1,15507.0
+AUDI,A6 2. 0 TDI,2008.0,13,Clásico (>12a),178.0,Diesel,4.0,140.0,manual,Pontevedra,Profesional,8.99,Accesible (5-10K),64.21,31535,3,0,15858.0
+MERCEDES-BENZ,CLASE GLC GLC 220 D 4MATIC,2017.0,4,Reciente (4-7a),85.0,Diesel,5.0,170.0,automat,Alicante,Profesional,34.99,Premium (20-35K),205.82,11108,0,0,5554.0
+SMART,FORTWO COUPE 52 PASSION,2008.0,13,Clásico (>12a),112.0,Gasolina,3.0,71.0,automat,Valladolid,Profesional,4.9,Económico (<5K),69.01,61744,4,1,31092.0
+SEAT,LEON 1. 6 102CV SPORT,2006.0,15,Clásico (>12a),159.0,Gasolina,5.0,102.0,manual,Valladolid,Profesional,5.85,Accesible (5-10K),57.35,111885,5,0,56092.0
+SUZUKI,JIMNY 1. 5D JLX HARD TOP,2005.0,16,Clásico (>12a),199.0,Diesel,3.0,65.0,manual,Madrid,Profesional,5.999,Accesible (5-10K),92.29,13528,0,1,6864.0
+BMW,SERIE 1 118D,2011.0,10,Seminuevo (8-12a),159.0,Diesel,5.0,143.0,manual,Madrid,Profesional,8.8,Accesible (5-10K),61.54,13978,1,0,7019.0
+VOLKSWAGEN,GOLF 2. 8 V6 4MOTION,2000.0,21,Clásico (>12a),280.0,Gasolina,3.0,204.0,manual,Madrid,Profesional,3.999,Económico (<5K),19.6,14379,2,0,7250.0
+PEUGEOT,3008 1. 5 BLUEHDI 96KW SS GT EAT8,2021.0,0,Casi nuevo (0-3a),82.6,Diesel,5.0,130.0,automat,Malaga,Profesional,33.4,Premium (20-35K),256.92,6622,0,0,3311.0
+PEUGEOT,208 BLUEHDI 73KW 100CV ACTIVE,2020.0,1,Casi nuevo (0-3a),82.6,Diesel,5.0,100.0,manual,Malaga,Profesional,15.9,Medio (10-20K),159.0,3846,0,0,1923.0
+MERCEDES-BENZ,CLASE E E 500 4MATIC AVANTGARDE AUTO,2007.0,14,Clásico (>12a),163.0,Gasolina,4.0,388.0,automat,Alicante,Profesional,12.49,Medio (10-20K),32.19,3117,6,1,1838.0
+MAZDA,CX7 2. 2 CRTD LUXURYSR,2011.0,10,Seminuevo (8-12a),238.0,Diesel,5.0,173.0,manual,Pontevedra,Profesional,7.99,Accesible (5-10K),46.18,23128,8,0,11804.0
+TOYOTA,AVENSIS 2. 0 D4D EXECUTIVE,2005.0,16,Clásico (>12a),174.0,Diesel,4.0,116.0,manual,Valladolid,Profesional,5.5,Accesible (5-10K),47.41,4218,0,0,2109.0
+FORD,MONDEO 2. 0 TDCI 140 GHIA,2007.0,14,Clásico (>12a),210.0,Diesel,5.0,140.0,manual,Zaragoza,Profesional,4.999,Económico (<5K),35.71,2259,1,0,1160.0
+PEUGEOT,308 5P ALLURE BLUEHDI 130 SS EAT8,2020.0,1,Casi nuevo (0-3a),39.8,Diesel,5.0,130.0,automat,Madrid,Profesional,17.49,Medio (10-20K),134.54,16725,0,0,8362.0
+OPEL,CROSSLAND X,2019.0,2,Casi nuevo (0-3a),8.0,Gasolina,5.0,110.0,manual,Madrid,Profesional,14.5,Medio (10-20K),131.82,20784,1,0,10422.0
+MINI,MINI ONE MINIMALISM LINE 75 CV,2010.0,11,Seminuevo (8-12a),160.0,Gasolina,3.0,75.0,manual,Valladolid,Profesional,7.9,Accesible (5-10K),105.33,4728,1,0,2394.0
+NISSAN,QASHQAI 2. 0 TEKNA 4X2,2009.0,12,Seminuevo (8-12a),160.0,Gasolina,5.0,140.0,manual,Zaragoza,Profesional,6.998,Accesible (5-10K),49.99,8280,3,0,4230.0
+OPEL,INSIGNIA ST 1. 6 CDTI SS ECOFLEX 136 CV BUSINESS,2016.0,5,Reciente (4-7a),141.0,Diesel,5.0,136.0,manual,Valladolid,Profesional,10.5,Medio (10-20K),77.21,8840,0,0,4420.0
+OPEL,VECTRA ELEGANCE 1. 9 CDTI 8V 120 CV,2006.0,15,Clásico (>12a),245.0,Diesel,5.0,120.0,manual,Zaragoza,Profesional,3.299,Económico (<5K),27.49,16873,4,0,8556.0
+MERCEDES-BENZ,CLASE C C 220 BLUETEC SPORTIVE EXCLUSIVE ESTATE,2015.0,6,Reciente (4-7a),83.0,Diesel,5.0,170.0,automat,Ourense,Profesional,20.0,Medio (10-20K),117.65,48518,4,4,24779.0
+RENAULT,TALISMAN S. T. ZEN BLUE DCI 118KW 160CV EDC,2020.0,1,Casi nuevo (0-3a),9.703,Diesel,5.0,160.0,automat,Cantabria,Profesional,24.49,Premium (20-35K),153.06,6955,2,1,3638.0
+PORSCHE,911 CARRERA 4 COUPE,2001.0,20,Clásico (>12a),192.0,Gasolina,2.0,320.0,manual,Castellon,Profesional,30.0,Premium (20-35K),93.75,13421,0,0,6710.0
+PEUGEOT,308 SW ACTIVE 1. 6 BLUEHDI 88KW 120CV,2017.0,4,Reciente (4-7a),152.0,Diesel,5.0,120.0,manual,Castellon,Profesional,10.0,Accesible (5-10K),83.33,3357,0,0,1678.0
+AUDI,A3 SPORTBACK 2. 0 TDI 150CV CLEAN D AMBITION,2014.0,7,Reciente (4-7a),127.0,Diesel,5.0,150.0,manual,Pontevedra,Profesional,16.4,Medio (10-20K),109.33,38854,15,0,19877.0
+HYUNDAI,KONA,2019.0,2,Casi nuevo (0-3a),10.852,Diesel,5.0,115.0,manual,Malaga,Profesional,16.9,Medio (10-20K),146.96,12745,2,0,6432.0
+PEUGEOT,206PLUS 1. 1 60CV GENERATION,2012.0,9,Seminuevo (8-12a),106.085,Gasolina,3.0,60.0,manual,Cantabria,Profesional,4.9,Económico (<5K),81.67,17959,3,0,9070.0
+BMW,SERIE 2 ACTIVE TOURER 220DA,2015.0,6,Reciente (4-7a),61.0,Diesel,5.0,190.0,manual,Pontevedra,Profesional,16.1,Medio (10-20K),84.74,20596,0,0,10298.0
+MERCEDES-BENZ,CLASE C C 200 CDI AVANTGARDE,2014.0,7,Reciente (4-7a),136.0,Diesel,4.0,136.0,manual,Pontevedra,Profesional,17.1,Medio (10-20K),125.74,33249,5,0,16774.0
+VOLKSWAGEN,POLO ADVANCE 1. 0 TSI 70KW 95CV,2018.0,3,Casi nuevo (0-3a),42.0,Gasolina,5.0,95.0,manual,Las Palmas,Profesional,10.49,Medio (10-20K),110.42,337288,14,0,169064.0
+BMW,SERIE 5 520D,2011.0,10,Seminuevo (8-12a),169.0,Diesel,4.0,184.0,manual,Pontevedra,Profesional,14.4,Medio (10-20K),78.26,36929,5,0,18614.0
+RENAULT,MEGANE CONFORT DYNAMIQUE 1. 9DCI,2003.0,18,Clásico (>12a),198.0,Diesel,5.0,120.0,manual,Zaragoza,Profesional,2.49,Económico (<5K),20.75,7194,4,0,3717.0
+BMW,X5 3. 0D,2005.0,16,Clásico (>12a),200.0,Diesel,5.0,218.0,automat,Valladolid,Profesional,9.5,Accesible (5-10K),43.58,65729,12,2,33424.0
+SSANGYONG,ACTYON 200XDI PROFESIONAL PREMIUM,2007.0,14,Clásico (>12a),124.0,Diesel,5.0,141.0,manual,Pontevedra,Profesional,6.9,Accesible (5-10K),48.94,23825,5,0,12062.0
+PEUGEOT,5008 SPORT PACK 2. 0 HDI 150 FAP,2010.0,11,Seminuevo (8-12a),183.0,Diesel,5.0,150.0,manual,Pontevedra,Profesional,10.4,Medio (10-20K),69.33,21593,3,0,10886.0
+SKODA,FABIA COMBI 1. 6 TDI CR 90CV FAMILY,2012.0,9,Seminuevo (8-12a),110.0,Diesel,5.0,90.0,manual,Valladolid,Profesional,6.8,Accesible (5-10K),75.56,67131,2,0,33626.0
+VOLKSWAGEN,GOLF 2. 0 TSI 230CV DSG GTI PERFORMANCE BMT,2014.0,7,Reciente (4-7a),141.0,Gasolina,3.0,230.0,automat,Pontevedra,Profesional,19.5,Medio (10-20K),84.78,35104,9,2,18022.0
+FORD,FOCUS 1. 6 TDCI 109 ECONETIC,2009.0,12,Seminuevo (8-12a),217.0,Diesel,5.0,109.0,manual,Valladolid,Profesional,5.9,Accesible (5-10K),54.13,62959,3,0,31570.0
+PEUGEOT,308 CONFORT 1. 6 VTI 120,2008.0,13,Clásico (>12a),174.0,Gasolina,5.0,120.0,manual,Valladolid,Profesional,5.6,Accesible (5-10K),46.67,55952,4,0,28096.0
+HYUNDAI,IONIQ 1. 6 GDI PHEV TECNO DCT,2019.0,2,Casi nuevo (0-3a),17.89,Híbrido,5.0,141.0,automat,Malaga,Profesional,23.0,Premium (20-35K),163.12,14016,0,0,7008.0
+ALFA ROMEO,GIULIA 2. 0 GME T4 206KW 280CV VELOCE ATX,2020.0,1,Casi nuevo (0-3a),500.0,Gasolina,4.0,280.0,automat,Valencia,Profesional,40.0,Lujo (>35K),142.86,1027884,69,0,516012.0
+OPEL,ASTRA 1. 7 CDTI ENJOY,2006.0,15,Clásico (>12a),138.0,Diesel,5.0,100.0,manual,Valladolid,Profesional,4.9,Económico (<5K),49.0,113800,15,1,57450.0
+PEUGEOT,508 SW ALLURE 2. 0 BLUEHDI 133KW 180CV AUTO,2017.0,4,Reciente (4-7a),129.056,Diesel,5.0,180.0,automat,Madrid,Profesional,15.99,Medio (10-20K),88.83,172,0,0,86.0
+FORD,CMAX 1. 8 TDCI GHIA,2008.0,13,Clásico (>12a),148.0,Diesel,5.0,115.0,manual,Valladolid,Profesional,6.5,Accesible (5-10K),56.52,136978,1,2,68719.0
+PEUGEOT,3008 1. 5 BLUEHDI 96KW SS ALLURE PACK EAT8,2020.0,1,Casi nuevo (0-3a),82.6,Diesel,5.0,130.0,automat,Malaga,Profesional,31.9,Premium (20-35K),245.38,4030,0,0,2015.0
+PEUGEOT,208 PURETECH 73KW 100CV ALLURE,2020.0,1,Casi nuevo (0-3a),82.6,Gasolina,5.0,100.0,manual,Malaga,Profesional,15.4,Medio (10-20K),154.0,6334,0,0,3167.0
+PEUGEOT,5008 1. 5 BLUEHDI 96KW 130CV SS ALLURE PACK,2021.0,0,Casi nuevo (0-3a),82.6,Diesel,5.0,130.0,manual,Malaga,Profesional,31.3,Premium (20-35K),240.77,9747,0,0,4874.0
+NISSAN,PIXO 5P 1. 0G 68CV ACENTA,2012.0,9,Seminuevo (8-12a),106.0,Gasolina,5.0,68.0,manual,Valladolid,Profesional,4.9,Económico (<5K),72.06,2377,0,0,1188.0
+OPEL,ADAM 1. 4 XEL ROCKS,2017.0,4,Reciente (4-7a),45.81,Gasolina,3.0,87.0,manual,Las Palmas,Profesional,8.99,Accesible (5-10K),103.33,5031,0,0,2516.0
+BMW,X5 3. 0D,2002.0,19,Clásico (>12a),290.0,Diesel,5.0,184.0,automat,Madrid,Profesional,4.998,Económico (<5K),27.16,18625,2,1,9472.0
+HYUNDAI,IONIQ 1. 6 GDI HEV TECNO DT,2019.0,2,Casi nuevo (0-3a),15.0,Híbrido,5.0,141.0,automat,Madrid,Profesional,18.59,Medio (10-20K),131.84,22924,0,0,11462.0
+PEUGEOT,2008 ALLURE 1. 2 PURETECH 110 SS EAT6,2016.0,5,Reciente (4-7a),81.45,Gasolina,5.0,110.0,automat,Madrid,Profesional,10.5,Medio (10-20K),95.45,21471,2,0,10796.0
+HYUNDAI,TUCSON 1. 7 CRDI 115CV BLUEDRIVE KLASS 4X2,2016.0,5,Reciente (4-7a),75.0,Diesel,5.0,115.0,manual,Madrid,Profesional,14.5,Medio (10-20K),126.09,21363,1,0,10712.0
+HYUNDAI,I20 1. 2 MPI BLUEDRIVE TECNO,2015.0,6,Reciente (4-7a),60.0,Gasolina,5.0,84.0,manual,Madrid,Profesional,8.9,Accesible (5-10K),105.95,23100,0,0,11550.0
+CITROEN,C8 2. 0 HDI 16V 120 PREMIER II,2007.0,14,Clásico (>12a),202.573,Diesel,5.0,120.0,manual,Cantabria,Profesional,6.0,Accesible (5-10K),50.0,3688,0,0,1844.0
+BMW,SERIE 7 730D,2013.0,8,Seminuevo (8-12a),110.0,Diesel,4.0,258.0,automat,Zaragoza,Profesional,23.949,Premium (20-35K),92.83,11193,0,0,5596.0
+SEAT,LEON 1. 9 TDI 150CV FR,2004.0,17,Clásico (>12a),190.0,Diesel,5.0,150.0,manual,Valladolid,Profesional,5.5,Accesible (5-10K),36.67,24468,7,0,12444.0
+AUDI,A3 1. 4 TFSI 122CV AMBITION,2012.0,9,Seminuevo (8-12a),131.0,Gasolina,3.0,122.0,manual,Castellon,Profesional,10.2,Medio (10-20K),83.61,2298,1,0,1179.0
+MITSUBISHI,LANCER 2. 0 16V EVOLUTION MR,2011.0,10,Seminuevo (8-12a),59.0,Gasolina,4.0,295.0,automat,Alicante,Profesional,29.99,Premium (20-35K),101.66,26518,9,0,13529.0
+VOLKSWAGEN,POLO ADVANCE 1. 2 TSI 90CV BMT,2014.0,7,Reciente (4-7a),138.0,Gasolina,5.0,90.0,manual,Las Palmas,Profesional,5.99,Accesible (5-10K),66.56,231748,29,0,116744.0
+CITROEN,C3 PICASSO HDI 90CV AIRDREAM ATTRACTION,2015.0,6,Reciente (4-7a),62.5,Diesel,5.0,92.0,manual,La Coruna,Profesional,9.058,Accesible (5-10K),98.46,29325,1,0,14692.0
+MERCEDES-BENZ,CLASE CLC CLC 220 CDI,2009.0,12,Seminuevo (8-12a),129.0,Diesel,3.0,150.0,automat,Pontevedra,Profesional,10.99,Medio (10-20K),73.27,35931,4,0,18086.0
+PEUGEOT,208 5P STYLE 1. 6 BLUEHDI 55KW 75CV,2017.0,4,Reciente (4-7a),67.0,Diesel,5.0,75.0,manual,Castellon,Profesional,10.0,Accesible (5-10K),133.33,4288,0,0,2144.0
+BMW,SERIE 3 330D,2010.0,11,Seminuevo (8-12a),143.0,Diesel,2.0,245.0,manual,Pontevedra,Profesional,16.2,Medio (10-20K),66.12,38328,13,3,19854.0
+VOLKSWAGEN,GOLF GTD 2. 0 TDI 184CV BMT,2015.0,6,Reciente (4-7a),183.0,Diesel,5.0,184.0,manual,Castellon,Profesional,15.4,Medio (10-20K),83.7,8036,1,0,4048.0
+SEAT,LEON ST 2. 0 TDI 150CV STSP FR,2015.0,6,Reciente (4-7a),119.0,Diesel,5.0,150.0,manual,Pontevedra,Profesional,12.5,Medio (10-20K),83.33,36195,11,1,18528.0
+CITROEN,C4 AIRCROSS 1. 6 HDI 115CV SEDUCTION,2014.0,7,Reciente (4-7a),76.59,Diesel,5.0,114.0,manual,Cantabria,Profesional,11.99,Medio (10-20K),105.18,15840,3,0,8010.0
+OPEL,INSIGNIA 2. 0 CDTI 160 CV SPORT,2010.0,11,Seminuevo (8-12a),150.332,Diesel,5.0,160.0,manual,Cantabria,Profesional,6.99,Accesible (5-10K),43.69,14982,4,0,7611.0
+FIAT,FREEMONT URBAN 2. 0 16V 140CV DIESEL,2011.0,10,Seminuevo (8-12a),177.879,Diesel,5.0,140.0,manual,Cantabria,Profesional,9.99,Accesible (5-10K),71.36,14548,0,0,7274.0
+SEAT,IBIZA 1. 9 SDI REFERENCE,2004.0,17,Clásico (>12a),230.064,Diesel,3.0,64.0,manual,Cantabria,Profesional,3.5,Económico (<5K),54.69,20820,2,0,10470.0
+PEUGEOT,308 5P ACTIVE 1. 6 HDI 92 FAP,2012.0,9,Seminuevo (8-12a),89.688,Diesel,5.0,92.0,manual,Cantabria,Profesional,8.5,Accesible (5-10K),92.39,13796,0,0,6898.0
+CHEVROLET,CRUZE 2. 0 VCDI 16V LS,2010.0,11,Seminuevo (8-12a),140.0,Diesel,4.0,125.0,manual,Zaragoza,Profesional,4.5,Económico (<5K),36.0,37641,8,1,19160.0
+VOLKSWAGEN,GOLF R 2. 0 TSI 300CV BMT 4MOTION DSG,2014.0,7,Reciente (4-7a),107.0,Gasolina,5.0,300.0,automat,Pontevedra,Profesional,25.5,Premium (20-35K),85.0,51643,22,2,26682.0
+KIA,NIRO 1. 6 GDI HEV 104KW 141CV DRIVE,2019.0,2,Casi nuevo (0-3a),49.187,Híbrido,5.0,141.0,automat,Valencia,Profesional,16.7,Medio (10-20K),118.44,1407,1,0,734.0
+BMW,SERIE 4 420D GRAN COUPE,2015.0,6,Reciente (4-7a),132.0,Diesel,5.0,190.0,automat,Pontevedra,Profesional,20.6,Premium (20-35K),108.42,30066,16,3,15813.0
+VOLKSWAGEN,GOLF GTD 2. 0 TDI 184CV BMT,2015.0,6,Reciente (4-7a),124.0,Diesel,5.0,184.0,manual,Pontevedra,Profesional,18.5,Medio (10-20K),100.54,37327,6,0,18844.0
+OPEL,INSIGNIA 2. 0 CDTI ECOFLEX 130 CV EDITION,2010.0,11,Seminuevo (8-12a),161.0,Diesel,5.0,130.0,manual,Valladolid,Profesional,8.9,Accesible (5-10K),68.46,41185,0,0,20592.0
+VOLKSWAGEN,SCIROCCO 2. 0 TDI 177CV BY RLINE,2013.0,8,Seminuevo (8-12a),134.0,Diesel,3.0,177.0,manual,Pontevedra,Profesional,14.9,Medio (10-20K),84.18,32621,18,2,17050.0
+AUDI,A4 2. 0 TDI 140CV,2008.0,13,Clásico (>12a),164.0,Diesel,4.0,140.0,manual,Pontevedra,Profesional,10.4,Medio (10-20K),74.29,41820,8,0,21150.0
+RENAULT,MEGANE SEDAN LUXE DYNAMIQUE 1. 6 16V,2005.0,16,Clásico (>12a),163.0,Gasolina,4.0,115.0,manual,Valladolid,Profesional,3.85,Económico (<5K),33.48,73096,2,0,36608.0
+HYUNDAI,SANTA FE 2. 2 CRDI STYLE LIMITED AUTO 4X4,2019.0,2,Casi nuevo (0-3a),36.0,Diesel,5.0,200.0,automat,Malaga,Profesional,36.3,Lujo (>35K),181.5,23888,0,1,12044.0
+SEAT,ALTEA 1. 9 TDI 105CV ARENA,2009.0,12,Seminuevo (8-12a),169.0,Diesel,5.0,105.0,manual,Valladolid,Profesional,7.5,Accesible (5-10K),71.43,63682,1,0,31871.0
+RENAULT,MEGANE DYNAMIQUE 1. 5DCI105,2007.0,14,Clásico (>12a),131.0,Diesel,5.0,105.0,manual,Madrid,Profesional,2.999,Económico (<5K),28.56,16845,4,0,8542.0
+AUDI,A8 4. 2 QUATTRO TIPTRONIC,2003.0,18,Clásico (>12a),262.0,Gasolina,4.0,310.0,automat,Alicante,Profesional,7.9,Accesible (5-10K),25.48,3041,0,0,1520.0
+OPEL,ADAM 1. 4 XEL ROCKS,2017.0,4,Reciente (4-7a),78.84,Gasolina,3.0,87.0,manual,Las Palmas,Profesional,9.49,Accesible (5-10K),109.08,5644,0,0,2822.0
+OPEL,CORSA 1. 4 TURBO 110KW 150CV GSI SS,2019.0,2,Casi nuevo (0-3a),33.6,Gasolina,3.0,150.0,manual,Las Palmas,Profesional,12.99,Medio (10-20K),86.6,10291,1,0,5176.0
+CITROEN,C4 CACTUS PURETECH 81KW 110CV SS SHINE,2018.0,3,Casi nuevo (0-3a),40.511,Gasolina,5.0,110.0,manual,Madrid,Profesional,10.99,Medio (10-20K),99.91,24922,0,1,12561.0
+HYUNDAI,IX35 1. 7 CRDI BLUEDRIVE KOSMO KLASS 4X2,2015.0,6,Reciente (4-7a),116.0,Diesel,5.0,115.0,manual,Madrid,Profesional,11.9,Medio (10-20K),103.48,19996,1,0,10028.0
+HYUNDAI,I20 1. 0 TGDI 74KW 100CV 48V TECNO,2020.0,1,Casi nuevo (0-3a),5.0,Híbrido,5.0,100.0,manual,Madrid,Profesional,16.2,Medio (10-20K),162.0,18877,0,0,9438.0
+VOLKSWAGEN,POLO 1. 6 TDI 90CV SPORT,2011.0,10,Seminuevo (8-12a),113.0,Diesel,3.0,90.0,manual,Alicante,Profesional,7.49,Accesible (5-10K),83.22,2133,0,0,1066.0
+PEUGEOT,206 CC 1. 6 HDI,2006.0,15,Clásico (>12a),109.78,Diesel,2.0,110.0,manual,Cantabria,Profesional,5.99,Accesible (5-10K),54.45,7666,1,0,3863.0
+CITROEN,XSARA 2. 0 HDI MAGIC,2004.0,17,Clásico (>12a),253.162,Diesel,3.0,90.0,manual,Cantabria,Profesional,2.0,Económico (<5K),22.22,5221,0,2,2810.0
+MINI,MINI COOPER D,2008.0,13,Clásico (>12a),145.0,Diesel,3.0,110.0,manual,Tarragona,Profesional,5.99,Accesible (5-10K),54.45,3385,0,0,1692.0
+CITROEN,C1 1. 0 SX,2006.0,15,Clásico (>12a),125.0,Gasolina,5.0,68.0,manual,Castellon,Profesional,3.3,Económico (<5K),48.53,2360,2,0,1240.0
+OPEL,INSIGNIA 2. 0CDTI ECOFLEX STARSTOP 140 EXCELLENCE,2015.0,6,Reciente (4-7a),47.0,Diesel,4.0,140.0,manual,Castellon,Profesional,11.9,Medio (10-20K),85.0,1859,0,0,930.0
+FORD,FIESTA 1. 0 ECOBOOST 100CV TITANIUM 5P,2014.0,7,Reciente (4-7a),94.0,Gasolina,5.0,100.0,manual,Castellon,Profesional,6.8,Accesible (5-10K),68.0,1861,0,0,930.0
+FORD,MONDEO 2. 2 TDCI 175 GHIA X,2008.0,13,Clásico (>12a),150.0,Diesel,5.0,175.0,manual,Zaragoza,Profesional,6.5,Accesible (5-10K),37.14,18112,6,1,9336.0
+RENAULT,MEGANE ZEN ENERGY TCE 130,2016.0,5,Reciente (4-7a),42.758,Gasolina,5.0,130.0,manual,Cantabria,Profesional,11.99,Medio (10-20K),92.23,6688,0,0,3344.0
+NISSAN,MICRA IGT 74 KW 100 CV E6D ACENTA,2019.0,2,Casi nuevo (0-3a),1.432,Gasolina,5.0,100.0,manual,Cantabria,Profesional,11.99,Medio (10-20K),119.9,5809,0,1,3004.0
+AUDI,A3 SPORTBACK 1. 6 TDI 105 STRONIC ATTRACTION,2011.0,10,Seminuevo (8-12a),219.0,Diesel,5.0,105.0,automat,Tarragona,Profesional,6.7,Accesible (5-10K),63.81,15267,3,2,7924.0
+SKODA,SUPERB COMBI 2. 0 TDI CR 140CV ELEGANCE,2014.0,7,Reciente (4-7a),82.0,Diesel,5.0,140.0,manual,Zaragoza,Profesional,12.49,Medio (10-20K),89.21,7449,3,0,3814.0
+BMW,SERIE 4 M4,2014.0,7,Reciente (4-7a),144.0,Gasolina,2.0,431.0,automat,Pontevedra,Profesional,44.2,Lujo (>35K),102.55,42582,16,0,21771.0
+HYUNDAI,SONATA 2. 0 CRDI VGT COMFORT II,2007.0,14,Clásico (>12a),210.0,Diesel,4.0,140.0,manual,Zaragoza,Profesional,3.999,Económico (<5K),28.56,6881,3,0,3530.0
+HYUNDAI,I30 1. 0 TGDI NLINE,2020.0,1,Casi nuevo (0-3a),1.0,Gasolina,5.0,120.0,manual,Malaga,Profesional,19.4,Medio (10-20K),161.67,15368,0,0,7684.0
+BMW,SERIE 1 118D,2017.0,4,Reciente (4-7a),82.432,Diesel,5.0,150.0,automat,Cantabria,Profesional,17.0,Medio (10-20K),113.33,19465,0,0,9732.0
+HYUNDAI,IONIQ 1. 6 GDI HEV KLASS DT,2019.0,2,Casi nuevo (0-3a),17.953,Híbrido,5.0,141.0,automat,Malaga,Profesional,16.9,Medio (10-20K),119.86,14486,2,0,7303.0
+HYUNDAI,I20 1. 0 TGDI 74KW 100CV ESSENCE LE,2019.0,2,Casi nuevo (0-3a),28.078,Gasolina,5.0,100.0,manual,Malaga,Profesional,10.5,Medio (10-20K),105.0,12523,0,0,6262.0
+SEAT,LEON 1. 6 TDI 105CV REFERENCE COPA,2012.0,9,Seminuevo (8-12a),157.757,Diesel,5.0,105.0,manual,Cantabria,Profesional,7.5,Accesible (5-10K),71.43,13148,2,0,6634.0
+NISSAN,QASHQAI 1. 6DCI SS ACENTA 4X2,2017.0,4,Reciente (4-7a),153.398,Diesel,5.0,130.0,manual,Cantabria,Profesional,12.99,Medio (10-20K),99.92,13398,2,0,6759.0
+RENAULT,CLIO SPORT TOUR. EXP. ENERGY TCE 90 SS ECO2,2013.0,8,Seminuevo (8-12a),158.935,Gasolina,5.0,90.0,manual,Cantabria,Profesional,6.5,Accesible (5-10K),72.22,18884,1,0,9472.0
+VOLVO,C30 1. 6 DRIVE MOMENTUM,2010.0,11,Seminuevo (8-12a),114.0,Diesel,3.0,115.0,manual,Zaragoza,Profesional,7.498,Accesible (5-10K),65.2,9892,2,0,5006.0
+CITROEN,C4 PICASSO 1. 6 HDI 90CV ATTRACTION,2014.0,7,Reciente (4-7a),74.263,Diesel,5.0,92.0,manual,Cantabria,Profesional,10.5,Medio (10-20K),114.13,16517,0,0,8258.0
+FORD,FUSION 1. 6 16V ELEGANCE,2005.0,16,Clásico (>12a),136.007,Gasolina,5.0,100.0,manual,Cantabria,Profesional,3.5,Económico (<5K),35.0,15987,4,1,8214.0
+PEUGEOT,308 SW SPORT 1. 6 VTI,2009.0,12,Seminuevo (8-12a),164.231,Gasolina,5.0,120.0,manual,Cantabria,Profesional,5.5,Accesible (5-10K),45.83,15645,0,0,7822.0
+PEUGEOT,308 SPORT 1. 6 HDI 110 FAP 5 VELOCIDADES,2009.0,12,Seminuevo (8-12a),152.302,Diesel,5.0,110.0,manual,Cantabria,Profesional,5.5,Accesible (5-10K),50.0,13897,1,1,7078.0
+FIAT,GRANDE PUNTO 1. 3 MULTIJET 16V 90 SPORT,2007.0,14,Clásico (>12a),174.0,Diesel,3.0,90.0,manual,Pontevedra,Profesional,3.99,Económico (<5K),44.33,24247,7,0,12334.0
+PEUGEOT,308 5P BUSINESS LINE BLUEHDI 100,2016.0,5,Reciente (4-7a),83.0,Diesel,5.0,100.0,manual,Castellon,Profesional,11.8,Medio (10-20K),118.0,4502,0,0,2251.0
+AUDI,A3 1. 6 FSI ATTRACTION,2004.0,17,Clásico (>12a),185.0,Gasolina,3.0,115.0,manual,Zaragoza,Profesional,4.3,Económico (<5K),37.39,8809,3,0,4494.0
+BMW,SERIE 3 318I TOURING,2007.0,14,Clásico (>12a),125.0,Gasolina,5.0,129.0,manual,Tarragona,Profesional,7.5,Accesible (5-10K),58.14,16709,4,1,8574.0
+VOLKSWAGEN,GOLF EDITION 1. 6 TDI 85KW 115CV,2017.0,4,Reciente (4-7a),122.0,Diesel,5.0,115.0,manual,Castellon,Profesional,13.9,Medio (10-20K),120.87,6089,0,0,3044.0
+PEUGEOT,2008 ALLURE PURETECH 130 SS EAT6,2019.0,2,Casi nuevo (0-3a),29.031,Gasolina,5.0,130.0,automat,Alicante,Profesional,15.1,Medio (10-20K),116.15,172359,5,2,86530.0
+PEUGEOT,2008 SIGNATURE 1. 2 PURETECH 60KW 82CV,2019.0,2,Casi nuevo (0-3a),26.998,Gasolina,5.0,82.0,manual,Alicante,Profesional,11.5,Medio (10-20K),140.24,178133,4,3,89486.0
+VOLKSWAGEN,GOLF 2. 0 TDI 184CV DSG GTD BMT,2013.0,8,Seminuevo (8-12a),166.0,Diesel,3.0,184.0,automat,Pontevedra,Profesional,15.2,Medio (10-20K),82.61,27104,9,0,13822.0
+BMW,SERIE 3 320D TOURING E91,2005.0,16,Clásico (>12a),242.0,Diesel,5.0,163.0,manual,Pontevedra,Profesional,6.8,Accesible (5-10K),41.72,32429,10,0,16514.0
+BMW,SERIE 1 116I,2005.0,16,Clásico (>12a),140.0,Gasolina,5.0,115.0,manual,Valladolid,Profesional,7.9,Accesible (5-10K),68.7,57727,7,0,29074.0
+AUDI,A5 SPORTBACK 2. 0 TDI 170CV DPF,2010.0,11,Seminuevo (8-12a),161.0,Diesel,5.0,170.0,manual,Pontevedra,Profesional,14.9,Medio (10-20K),87.65,30243,9,0,15392.0
+VOLKSWAGEN,GOLF SPORT 2. 0 TDI 150CV BMT DSG,2013.0,8,Seminuevo (8-12a),141.0,Diesel,5.0,150.0,automat,Pontevedra,Profesional,14.2,Medio (10-20K),94.67,27364,1,0,13712.0
+VOLKSWAGEN,GOLF SPORT 2. 0 TDI 150CV BMT,2014.0,7,Reciente (4-7a),153.0,Diesel,5.0,150.0,manual,Pontevedra,Profesional,14.0,Medio (10-20K),93.33,26645,2,0,13382.0
+HYUNDAI,TUCSON 1. 6 TGDI 130KW 177CV KLASS SKY 4X2,2020.0,1,Casi nuevo (0-3a),1.0,Gasolina,5.0,177.0,manual,Malaga,Profesional,23.7,Premium (20-35K),133.9,20490,2,0,10305.0
+HYUNDAI,I30 1. 4 MPI ESSENCE,2020.0,1,Casi nuevo (0-3a),1.0,Gasolina,5.0,100.0,manual,Malaga,Profesional,15.4,Medio (10-20K),154.0,14016,0,0,7008.0
+OPEL,CROSSLAND X,2019.0,2,Casi nuevo (0-3a),11.34,Gasolina,5.0,110.0,automat,Valencia,Profesional,15.25,Medio (10-20K),138.64,654935,10,7,328468.0
+PEUGEOT,2008 STYLE BLUEHDI 73KW 100CV SS,2018.0,3,Casi nuevo (0-3a),82.2,Diesel,5.0,100.0,manual,Castellon,Profesional,11.9,Medio (10-20K),119.0,239142,1,1,119701.0
+HYUNDAI,I30 I30 CW TGDI 1. 0 120CV KLASS MY19,2019.0,2,Casi nuevo (0-3a),2.433,Gasolina,5.0,120.0,manual,Malaga,Profesional,14.5,Medio (10-20K),120.83,16483,0,0,8242.0
+HYUNDAI,I30 1. 0 TGDI N LINE,2019.0,2,Casi nuevo (0-3a),836.0,Gasolina,5.0,120.0,manual,Malaga,Profesional,15.9,Medio (10-20K),132.5,15153,2,0,7636.0
+BMW,SERIE 5 530D,2008.0,13,Clásico (>12a),200.0,Diesel,4.0,235.0,automat,Valladolid,Profesional,12.0,Medio (10-20K),51.06,161996,18,3,81838.0
+BMW,SERIE 3 320D GRAN TURISMO,2018.0,3,Casi nuevo (0-3a),83.0,Diesel,5.0,190.0,automat,Pontevedra,Profesional,29.5,Premium (20-35K),155.26,54911,1,0,27486.0
+CITROEN,XANTIA 2. 0 HDI PLAISIR 90CV,2000.0,21,Clásico (>12a),429.0,Diesel,5.0,90.0,manual,Pontevedra,Profesional,1.25,Económico (<5K),13.89,218414,3,0,109297.0
+KIA,CARENS 2. 0 CRDI EX,2003.0,18,Clásico (>12a),152.0,Diesel,5.0,112.0,manual,Madrid,Profesional,2.8,Económico (<5K),25.0,13304,0,0,6652.0
+PEUGEOT,5008 1. 5 BLUEHDI 96KW 130CV SS ALLURE,2021.0,0,Casi nuevo (0-3a),82.6,Diesel,5.0,130.0,manual,Malaga,Profesional,31.3,Premium (20-35K),240.77,8212,0,0,4106.0
+MERCEDES-BENZ,CLASE CLA CLA 200 D,2017.0,4,Reciente (4-7a),64.0,Diesel,4.0,136.0,automat,Alicante,Profesional,25.4,Premium (20-35K),186.76,2395,2,0,1258.0
+CITROEN,GRAND C4 PICASSO BLUEHDI 150 AIRDREAM EXCLUSIVE,2016.0,5,Reciente (4-7a),80.0,Diesel,5.0,150.0,manual,Alicante,Profesional,14.99,Medio (10-20K),99.93,3149,1,0,1604.0
+AUDI,Q5 3. 0 TDI CLEAN 258CV QUATT S TRON S LINE,2015.0,6,Reciente (4-7a),111.0,Diesel,5.0,258.0,automat,Ourense,Profesional,28.0,Premium (20-35K),108.53,10949,1,0,5504.0
+PEUGEOT,207 1. 6 16V XS,2007.0,14,Clásico (>12a),30.0,Gasolina,3.0,110.0,manual,Zaragoza,Profesional,5.99,Accesible (5-10K),54.45,2451,1,0,1256.0
+PORSCHE,911 CARRERA 4 COUPE,2001.0,20,Clásico (>12a),140.0,Gasolina,2.0,320.0,manual,Alicante,Profesional,32.99,Premium (20-35K),103.09,6698,1,1,3479.0
+PEUGEOT,308 5P ALLURE 1. 6 BLUEHDI 88KW 120CV EAT6,2017.0,4,Reciente (4-7a),71.7,Diesel,5.0,120.0,automat,Madrid,Profesional,13.9,Medio (10-20K),115.83,24556,7,1,12588.0
+TOYOTA,AURIS 1. 8 140H HYBRID FEEL,2017.0,4,Reciente (4-7a),69.2,Híbrido,5.0,136.0,automat,Madrid,Profesional,12.9,Medio (10-20K),94.85,25871,0,0,12936.0
+HYUNDAI,TUCSON 1. 6 CRDI 85KW 116CV ESSENCE 4X2,2019.0,2,Casi nuevo (0-3a),15.0,Diesel,5.0,116.0,manual,Madrid,Profesional,17.9,Medio (10-20K),154.31,21105,2,0,10612.0
+HYUNDAI,KONA,2020.0,1,Casi nuevo (0-3a),10.0,Híbrido,5.0,204.0,automat,Madrid,Profesional,34.99,Premium (20-35K),171.52,17032,0,0,8516.0
+PEUGEOT,3008 HYBRID,2020.0,1,Casi nuevo (0-3a),21.0,Híbrido,5.0,300.0,automat,Madrid,Profesional,39.9,Lujo (>35K),133.0,18612,0,0,9306.0
+RENAULT,MEGANE BUSINESS ENERGY DCI 81KW 110CV,2017.0,4,Reciente (4-7a),59.865,Diesel,5.0,110.0,manual,Cantabria,Profesional,11.5,Medio (10-20K),104.55,2450,3,0,1315.0
+BMW,SERIE 3 320D TOURING,2008.0,13,Clásico (>12a),143.49,Diesel,5.0,177.0,automat,Cantabria,Profesional,8.99,Accesible (5-10K),50.79,4902,1,0,2481.0
+RENAULT,MEGANE ZEN BLUE DCI 85 KW 115CV EDC,2020.0,1,Casi nuevo (0-3a),100.0,Diesel,5.0,115.0,automat,Cantabria,Profesional,20.49,Premium (20-35K),178.17,6306,0,0,3153.0
+OPEL,CORSA 1. 4 SELECTIVE 66KW 90CV,2018.0,3,Casi nuevo (0-3a),47.0,Gasolina,5.0,90.0,manual,Castellon,Profesional,8.1,Accesible (5-10K),90.0,5313,2,0,2716.0
+AUDI,Q5 2. 0 TDI 177 QUATTRO S TRON AMBITION PLUS,2014.0,7,Reciente (4-7a),89.0,Diesel,5.0,177.0,automat,La Coruna,Profesional,22.468,Premium (20-35K),126.94,32696,4,0,16468.0
+MERCEDES-BENZ,CLASE A A 200 D STYLE,2016.0,5,Reciente (4-7a),56.0,Diesel,5.0,136.0,automat,Castellon,Profesional,19.0,Medio (10-20K),139.71,4582,0,2,2491.0
+PEUGEOT,308 5P ACTIVE 1. 6 BLUEHDI 88KW 120CV,2017.0,4,Reciente (4-7a),157.0,Diesel,5.0,120.0,manual,Castellon,Profesional,10.0,Accesible (5-10K),83.33,3662,0,0,1831.0
+OPEL,CORSA ENJOY 1. 3 ECOFLEX,2008.0,13,Clásico (>12a),160.0,Diesel,5.0,75.0,manual,Valladolid,Profesional,5.9,Accesible (5-10K),78.67,28739,0,0,14370.0
+SEAT,LEON 1. 6 TDI 105CV STSP REFERENCE,2014.0,7,Reciente (4-7a),82.0,Diesel,5.0,105.0,manual,Zaragoza,Profesional,9.79,Accesible (5-10K),93.24,17071,2,0,8596.0
+CITROEN,GRAND C4 PICASSO 2. 0 16V CMP EXCLUSIVE PLUS,2007.0,14,Clásico (>12a),130.0,Gasolina,5.0,143.0,automat,Zaragoza,Profesional,4.999,Económico (<5K),34.96,11382,5,0,5841.0
+PEUGEOT,208 5P STYLE 1. 2L PURETECH 60KW 82CV,2017.0,4,Reciente (4-7a),54.0,Gasolina,5.0,82.0,manual,Las Palmas,Profesional,6.99,Accesible (5-10K),85.24,394583,20,0,197892.0
+MITSUBISHI,ASX 180 DID CHALLENGE,2011.0,10,Seminuevo (8-12a),188.0,Diesel,5.0,116.0,manual,Castellon,Profesional,8.2,Accesible (5-10K),70.69,5151,3,0,2666.0
+NISSAN,LEAF 5P 109 CV SPOILER,2012.0,9,Seminuevo (8-12a),121.763,Híbrido,5.0,109.0,manual,Cantabria,Profesional,6.0,Accesible (5-10K),55.05,7885,5,2,4292.0
+CITROEN,DS4 1. 6 EHDI 115CV STT STYLE,2014.0,7,Reciente (4-7a),132.025,Diesel,5.0,114.0,manual,Cantabria,Profesional,9.99,Accesible (5-10K),87.63,6492,1,1,3376.0
+MERCEDES-BENZ,CLASE A A 160 CDI ELEGANCE,2008.0,13,Clásico (>12a),157.0,Diesel,5.0,82.0,manual,Castellon,Profesional,6.5,Accesible (5-10K),79.27,6311,0,0,3156.0
+OPEL,CORSA SILVERLINE BASE 1. 3 CDTI,2006.0,15,Clásico (>12a),97.341,Diesel,5.0,70.0,manual,Cantabria,Profesional,4.2,Económico (<5K),60.0,14051,0,0,7026.0
+OPEL,VECTRA COSMO 1. 9 CDTI 8V 120 CV,2005.0,16,Clásico (>12a),120.0,Diesel,5.0,120.0,manual,Valladolid,Profesional,5.5,Accesible (5-10K),45.83,37401,0,0,18700.0
+MERCEDES-BENZ,CLASE C C 200 D,2019.0,2,Casi nuevo (0-3a),22.283,Diesel,4.0,160.0,automat,Sevilla,Profesional,31.5,Premium (20-35K),196.88,61500,3,0,30840.0
+FIAT,500 1. 2 8V 69 CV LOUNGE,2012.0,9,Seminuevo (8-12a),96.514,Gasolina,3.0,69.0,manual,Cantabria,Profesional,6.8,Accesible (5-10K),98.55,18748,2,0,9434.0
+PEUGEOT,308 CONFORT 1. 6 HDI 90,2009.0,12,Seminuevo (8-12a),127.067,Diesel,5.0,90.0,manual,Cantabria,Profesional,59.99,Lujo (>35K),666.56,14561,0,0,7280.0
+OPEL,ASTRA TWIN TOP 1. 9 CDTI ENJOY,2006.0,15,Clásico (>12a),197.007,Diesel,2.0,150.0,manual,Cantabria,Profesional,5.9,Accesible (5-10K),39.33,20766,1,1,10513.0
+RENAULT,CLIO GRAND TOUR DYNAMIQUE 1. 5DCI85ECO2,2008.0,13,Clásico (>12a),222.293,Diesel,5.0,85.0,manual,Cantabria,Profesional,3.6,Económico (<5K),42.35,18082,0,0,9041.0
+RENAULT,SCENIC DYNAMIQUE TCE 115,2014.0,7,Reciente (4-7a),103.597,Gasolina,5.0,115.0,manual,Cantabria,Profesional,7.99,Accesible (5-10K),69.48,13613,1,0,6836.0
+OPEL,ASTRA 1. 7 CDTI 130 CV EXCELLENCE ST,2012.0,9,Seminuevo (8-12a),151.934,Diesel,5.0,130.0,manual,Cantabria,Profesional,7.8,Accesible (5-10K),60.0,12682,1,0,6371.0
+AUDI,A3 SPORTBACK 1. 4 TFSI S TRONIC ATTRACTION,2010.0,11,Seminuevo (8-12a),130.118,Gasolina,5.0,125.0,automat,Cantabria,Profesional,8.5,Accesible (5-10K),68.0,22447,17,2,11934.0
+VOLKSWAGEN,TOURAN 2. 0 TDI 140CV ADVANCE,2011.0,10,Seminuevo (8-12a),145.0,Diesel,5.0,140.0,manual,Castellon,Profesional,10.9,Medio (10-20K),77.86,8834,3,0,4507.0
+HYUNDAI,IONIQ 1. 6 GDI PHEV STYLE DCT,2017.0,4,Reciente (4-7a),68.451,Híbrido,5.0,141.0,automat,Malaga,Profesional,18.5,Medio (10-20K),131.21,10073,0,0,5036.0
+OPEL,INSIGNIA SPORTS TOURER 2. 0 CDTI 160 CV SPORT,2010.0,11,Seminuevo (8-12a),206.952,Diesel,5.0,160.0,manual,Tarragona,Profesional,6.95,Accesible (5-10K),43.44,11043,0,0,5522.0
+VOLKSWAGEN,GOLF ADVANCE 1. 6 TDI 105CV BMT,2014.0,7,Reciente (4-7a),154.0,Diesel,5.0,105.0,manual,Castellon,Profesional,11.5,Medio (10-20K),109.52,6943,1,0,3502.0
+AUDI,S3 2. 0 TFSI QUATTRO S TRONIC SPORTBACK,2017.0,4,Reciente (4-7a),35.0,Gasolina,5.0,310.0,automat,Alicante,Profesional,38.99,Lujo (>35K),125.77,20966,2,0,10543.0
+BMW,SERIE 3 M3,2003.0,18,Clásico (>12a),88.0,Gasolina,2.0,343.0,manual,Alicante,Profesional,34.99,Premium (20-35K),102.01,24228,10,1,12514.0
+OPEL,MOKKA X 1. 4 T 103KW 4X2 SS SELECTIVE,2018.0,3,Casi nuevo (0-3a),25.0,Gasolina,5.0,140.0,manual,Valencia,Profesional,10.9,Medio (10-20K),77.86,529339,29,19,267440.0
+FORD,FOCUS 1. 6 TDCI 95CV TREND,2012.0,9,Seminuevo (8-12a),84.0,Diesel,5.0,95.0,manual,Valladolid,Profesional,8.5,Accesible (5-10K),89.47,56636,3,0,28408.0
+BMW,SERIE 1 120D,2014.0,7,Reciente (4-7a),133.0,Diesel,5.0,184.0,automat,Pontevedra,Profesional,16.8,Medio (10-20K),91.3,27699,10,1,14250.0
+BMW,SERIE 3 318D TOURING,2012.0,9,Seminuevo (8-12a),173.685,Diesel,5.0,143.0,manual,Tarragona,Profesional,11.999,Medio (10-20K),83.91,22341,0,0,11170.0
+BMW,SERIE 4 425D,2015.0,6,Reciente (4-7a),134.0,Diesel,2.0,218.0,manual,Pontevedra,Profesional,22.5,Premium (20-35K),103.21,23252,17,3,12436.0
+PEUGEOT,308 5P GT PACK PURETECH 130 SS EAT8,2020.0,1,Casi nuevo (0-3a),9.0,Gasolina,5.0,130.0,automat,Alicante,Profesional,19.99,Medio (10-20K),153.77,14970,1,0,7515.0
+PEUGEOT,508 5P ACTIVE PURETECH 130KW 180 SS EAT8,2019.0,2,Casi nuevo (0-3a),35.0,Gasolina,5.0,180.0,automat,Castellon,Profesional,25.9,Premium (20-35K),143.89,212163,2,3,106442.0
+HYUNDAI,SANTA FE 2. 2 CRDI STYLE AUTO 4X4 7S,2017.0,4,Reciente (4-7a),112.859,Diesel,5.0,200.0,automat,Malaga,Profesional,22.0,Premium (20-35K),110.0,23027,6,2,11894.0
+FORD,KUGA STLINE 2. 0 ECOBLUE MHEV 110KW 150CV,2020.0,1,Casi nuevo (0-3a),10.0,Híbrido,5.0,150.0,manual,Madrid,Profesional,27.9,Premium (20-35K),186.0,36686,1,0,18373.0
+FIAT,500 1. 3 16V MULTIJET 75 CV BY DIESEL,2009.0,12,Seminuevo (8-12a),114.0,Diesel,3.0,75.0,manual,Valladolid,Profesional,6.95,Accesible (5-10K),92.67,81860,3,0,41020.0
+RENAULT,KANGOO COMBI NUEVO KANGO COMBI PROFESIONAL DCI 90,2013.0,8,Seminuevo (8-12a),153.0,Diesel,4.0,90.0,manual,Pontevedra,Profesional,7.5,Accesible (5-10K),83.33,199013,4,0,99626.0
+JEEP,COMPASS 1. 4 MAIR 103KW SPORT 4X2,2020.0,1,Casi nuevo (0-3a),49.23,Gasolina,5.0,140.0,manual,Valencia,Profesional,19.67,Medio (10-20K),140.5,923606,59,1,463673.0
+FIAT,PUNTO 1. 3 MULTIJET 16V FEEL,2006.0,15,Clásico (>12a),160.0,Diesel,3.0,70.0,manual,Valladolid,Profesional,4.5,Económico (<5K),64.29,145120,3,0,72650.0
+RENAULT,MEGANE SP. TOU. BUSINESS ENERGY DCI 95 SS E6,2016.0,5,Reciente (4-7a),129.0,Diesel,5.0,95.0,manual,Pontevedra,Profesional,7.5,Accesible (5-10K),78.95,192474,20,2,97037.0
+RENAULT,ESPACE PRIVILEGE 2. 2 DCI 16V,2006.0,15,Clásico (>12a),140.0,Diesel,5.0,150.0,manual,Valladolid,Profesional,6.35,Accesible (5-10K),42.33,231335,16,0,116148.0
+OPEL,ZAFIRA 1. 7 CDTI ESSENTIA,2009.0,12,Seminuevo (8-12a),179.0,Diesel,5.0,110.0,manual,Madrid,Profesional,3.999,Económico (<5K),36.35,14055,0,1,7128.0
+PEUGEOT,207 SPORT 1. 6 HDI 110,2008.0,13,Clásico (>12a),179.0,Diesel,3.0,110.0,manual,Madrid,Profesional,3.6,Económico (<5K),32.73,13901,0,0,6950.0
+HYUNDAI,KONA,2020.0,1,Casi nuevo (0-3a),7.0,Híbrido,5.0,204.0,automat,Cadiz,Profesional,35.9,Lujo (>35K),175.98,1410,0,0,705.0
+PEUGEOT,3008 1. 5 BLUEHDI 96KW SS GT EAT8,2021.0,0,Casi nuevo (0-3a),82.6,Diesel,5.0,130.0,automat,Malaga,Profesional,33.2,Premium (20-35K),255.38,6019,0,0,3010.0
+PEUGEOT,208 PURETECH 73KW 100CV ACTIVE PACK,2021.0,0,Casi nuevo (0-3a),82.6,Gasolina,5.0,100.0,manual,Malaga,Profesional,14.9,Medio (10-20K),149.0,4760,0,0,2380.0
+PEUGEOT,5008 1. 6 PURETECH 132KW SS GT PACK EAT8,2020.0,1,Casi nuevo (0-3a),82.6,Gasolina,5.0,180.0,automat,Malaga,Profesional,37.7,Lujo (>35K),209.44,9650,0,0,4825.0
+PEUGEOT,3008 HYBRID,2021.0,0,Casi nuevo (0-3a),82.6,Híbrido,5.0,225.0,automat,Malaga,Profesional,34.5,Premium (20-35K),153.33,9013,0,0,4506.0
+PEUGEOT,5008 1. 5 BLUEHDI 96KW 130CV SS ALLURE,2021.0,0,Casi nuevo (0-3a),82.6,Diesel,5.0,130.0,manual,Malaga,Profesional,31.3,Premium (20-35K),240.77,8773,0,0,4386.0
+PEUGEOT,E2008,2020.0,1,Casi nuevo (0-3a),82.6,Híbrido,5.0,136.0,automat,Malaga,Profesional,34.0,Premium (20-35K),250.0,7743,0,0,3872.0
+OPEL,CORSA 1. 4 66KW 90CV DESIGN LINE,2019.0,2,Casi nuevo (0-3a),40.46,Gasolina,5.0,90.0,manual,Las Palmas,Profesional,9.49,Accesible (5-10K),105.44,5485,0,0,2742.0
+JEEP,RENEGADE 1. 0G 88KW LONGITUDE 4X2,2019.0,2,Casi nuevo (0-3a),49.23,Gasolina,5.0,120.0,manual,Las Palmas,Profesional,15.99,Medio (10-20K),133.25,6833,1,2,3646.0
+SKODA,OCTAVIA COMBI 2. 0 TDI CR 184CV DSG RS,2016.0,5,Reciente (4-7a),89.0,Diesel,5.0,184.0,automat,Ourense,Profesional,18.5,Medio (10-20K),100.54,9957,9,0,5248.0
+PEUGEOT,308 CC SPORT PACK 2. 0 HDI 140 FAP,2010.0,11,Seminuevo (8-12a),250.0,Diesel,2.0,140.0,manual,Madrid,Profesional,5.998,Accesible (5-10K),42.84,14265,0,0,7132.0
+HYUNDAI,KONA,2020.0,1,Casi nuevo (0-3a),5.0,Híbrido,5.0,204.0,automat,Madrid,Profesional,36.69,Lujo (>35K),179.85,18362,0,0,9181.0
+VOLKSWAGEN,PASSAT 2. 0 TDI 140CV HIGHLINE BLUEMOTION TECH,2014.0,7,Reciente (4-7a),82.0,Diesel,4.0,140.0,manual,Madrid,Profesional,12.9,Medio (10-20K),92.14,28961,4,1,14700.0
+PEUGEOT,508 ALLURE BLUEHDI 96KW130CV SS EAT8,2019.0,2,Casi nuevo (0-3a),21.17,Diesel,5.0,130.0,automat,Madrid,Profesional,26.69,Premium (20-35K),205.31,18739,0,0,9370.0
+HYUNDAI,IONIQ 1. 6 GDI HEV TECNO DCT CON TRAILER PACK,2018.0,3,Casi nuevo (0-3a),60.0,Híbrido,5.0,141.0,automat,Madrid,Profesional,15.5,Medio (10-20K),109.93,14558,0,0,7279.0
+PEUGEOT,E208,2020.0,1,Casi nuevo (0-3a),10.7,Híbrido,5.0,136.0,automat,Madrid,Profesional,28.95,Premium (20-35K),212.87,19002,0,0,9501.0
+PEUGEOT,508 5P GT HYBRID 225 EEAT8,2020.0,1,Casi nuevo (0-3a),26.0,Híbrido,5.0,225.0,automat,Madrid,Profesional,38.625,Lujo (>35K),171.67,18228,1,0,9144.0
+PEUGEOT,208 5P ALLURE 1. 6 EHDI 92,2015.0,6,Reciente (4-7a),166.0,Diesel,5.0,92.0,manual,Zaragoza,Profesional,7.9,Accesible (5-10K),85.87,1684,0,0,842.0
+SEAT,LEON 2. 0 TDI 140CV SPORT,2006.0,15,Clásico (>12a),147.0,Diesel,5.0,140.0,manual,Valladolid,Profesional,6.5,Accesible (5-10K),46.43,8513,2,0,4316.0
+JAGUAR,XJ XJS CONVERTIBLE 4. 0,1994.0,27,Clásico (>12a),115.0,Gasolina,2.0,223.0,automat,Alicante,Profesional,35.99,Lujo (>35K),161.39,4422,1,0,2241.0
+BMW,SERIE 4 420D GRAN COUPE,2016.0,5,Reciente (4-7a),176.0,Diesel,5.0,190.0,automat,Alicante,Profesional,17.99,Medio (10-20K),94.68,2728,6,0,1544.0
+JAGUAR,SERIE XK XK8 4. 2 COUPE,2007.0,14,Clásico (>12a),79.0,Gasolina,3.0,298.0,automat,Alicante,Profesional,24.99,Premium (20-35K),83.86,3799,2,0,1960.0
+JAGUAR,SERIE XK XKR COUPE,1999.0,22,Clásico (>12a),85.0,Gasolina,2.0,370.0,automat,Alicante,Profesional,18.99,Medio (10-20K),51.32,4568,1,0,2314.0
+NISSAN,ALMERA TINO 2. 2DCI 112 ACENTA,2005.0,16,Clásico (>12a),205.559,Diesel,5.0,112.0,manual,Cantabria,Profesional,2.5,Económico (<5K),22.32,3981,0,0,1990.0
+FORD,CMAX 1. 0 ECOBOOST 125 AUTO STARTSTOP TREND,2012.0,9,Seminuevo (8-12a),119.53,Gasolina,5.0,125.0,manual,Cantabria,Profesional,7.8,Accesible (5-10K),62.4,2341,1,0,1200.0
+SEAT,ALTEA 1. 6 TDI 105CV REFERENCE EECOMOTIVE,2011.0,10,Seminuevo (8-12a),169.183,Diesel,5.0,105.0,manual,Cantabria,Profesional,6.5,Accesible (5-10K),61.9,3174,0,0,1587.0
+MAZDA,CX3 2. 0 G 89KW 121CV 2WD AT EVOLUTION NAVI,2019.0,2,Casi nuevo (0-3a),38.0,Gasolina,5.0,121.0,manual,Alicante,Profesional,16.8,Medio (10-20K),138.84,1851,3,0,1016.0
+BMW,X6 M,2011.0,10,Seminuevo (8-12a),45.0,Gasolina,5.0,555.0,automat,Alicante,Profesional,41.99,Lujo (>35K),75.66,4913,2,0,2516.0
+HYUNDAI,I30 1. 0 TGDI KLASS,2020.0,1,Casi nuevo (0-3a),4.061,Gasolina,5.0,120.0,manual,Cadiz,Profesional,15.4,Medio (10-20K),128.33,59370,0,0,29685.0
+PEUGEOT,5008 CONFORT 1. 6 HDI 112 FAP,2011.0,10,Seminuevo (8-12a),137.279,Diesel,5.0,112.0,manual,Cantabria,Profesional,8.5,Accesible (5-10K),75.89,2773,1,0,1416.0
+FORD,MONDEO 2. 0 TDCI 150CV BUSINESS SPORTBREAK,2015.0,6,Reciente (4-7a),85.0,Diesel,5.0,150.0,manual,Zaragoza,Profesional,12.85,Medio (10-20K),85.67,5330,2,0,2725.0
+HYUNDAI,I20 I20 1. 4 CRDI GL PBT COMFORT AA ESP,2011.0,10,Seminuevo (8-12a),189.0,Diesel,5.0,75.0,manual,Asturias,Profesional,4.3,Económico (<5K),57.33,4598,2,0,2359.0
+CITROEN,C4 1. 6 HDI 110 COLLECTION,2007.0,14,Clásico (>12a),146.0,Diesel,5.0,110.0,manual,Valladolid,Profesional,5.9,Accesible (5-10K),53.64,11198,0,0,5599.0
+LEXUS,CT 200H EXECUTIVE,2014.0,7,Reciente (4-7a),69.0,Híbrido,5.0,136.0,automat,Tarragona,Profesional,13.5,Medio (10-20K),99.26,4676,1,0,2368.0
+SKODA,OCTAVIA COMBI 2. 0 TDI CR 184CV DSG RS,2016.0,5,Reciente (4-7a),96.0,Diesel,5.0,184.0,automat,Ourense,Profesional,19.9,Medio (10-20K),108.15,44999,18,3,23340.0
+CITROEN,BERLINGO 1. 6 HDI 115 SEDUCTION,2012.0,9,Seminuevo (8-12a),186.0,Diesel,5.0,114.0,manual,Castellon,Profesional,9.0,Accesible (5-10K),78.95,5016,0,0,2508.0
+MERCEDES-BENZ,CLASE CLA CLA 200 D,2018.0,3,Casi nuevo (0-3a),32.0,Diesel,4.0,136.0,automat,Alicante,Profesional,26.89,Premium (20-35K),197.72,4590,0,0,2295.0
+SEAT,LEON 1. 5 ECOTSI 96KW 130CV STSP STYLE,2019.0,2,Casi nuevo (0-3a),15.058,Gasolina,5.0,130.0,manual,Cantabria,Profesional,14.99,Medio (10-20K),115.31,7877,1,0,3968.0
+OPEL,ASTRA 1. 6 CDTI 81KW 110CV BUSINESS,2017.0,4,Reciente (4-7a),57.215,Diesel,5.0,110.0,manual,Cantabria,Profesional,11.99,Medio (10-20K),109.0,6898,1,0,3479.0
+PEUGEOT,308 CONFORT 1. 6 VTI 120,2008.0,13,Clásico (>12a),155.0,Gasolina,5.0,120.0,manual,Zaragoza,Profesional,4.999,Económico (<5K),41.66,15775,1,0,7918.0
+CHEVROLET,EPICA 2. 0 VCDI 16V LT,2008.0,13,Clásico (>12a),189.0,Diesel,4.0,150.0,manual,Zaragoza,Profesional,3.999,Económico (<5K),26.66,17058,0,0,8529.0
+PEUGEOT,3008 1. 6BLUEHDI 88KW 120CV ALLURE SS,2017.0,4,Reciente (4-7a),60.0,Diesel,5.0,120.0,automat,Castellon,Profesional,20.5,Premium (20-35K),170.83,3742,1,0,1901.0
+VOLKSWAGEN,BEETLE 2. 0 TDI 140CV DESIGN,2012.0,9,Seminuevo (8-12a),132.0,Diesel,3.0,140.0,manual,Castellon,Profesional,10.0,Accesible (5-10K),71.43,5187,1,1,2724.0
+SKODA,SUPERB 1. 9 TDI COLLECTION,2008.0,13,Clásico (>12a),204.0,Diesel,4.0,115.0,manual,Alicante,Profesional,3.49,Económico (<5K),30.35,8017,9,0,4278.0
+FIAT,500 1. 2 8V 69 CV LOUNGE,2008.0,13,Clásico (>12a),125.0,Gasolina,3.0,69.0,manual,Castellon,Profesional,5.8,Accesible (5-10K),84.06,5171,2,0,2646.0
+RENAULT,GRAND SCENIC DYNAMIQUE ENERGY DCI 130 SS 7P,2012.0,9,Seminuevo (8-12a),91.789,Diesel,5.0,130.0,manual,Tarragona,Profesional,10.999,Medio (10-20K),84.61,11316,0,0,5658.0
+HYUNDAI,IONIQ 1. 6 GDI HEV TECNO DCT,2019.0,2,Casi nuevo (0-3a),8.371,Híbrido,5.0,141.0,automat,Malaga,Profesional,18.8,Medio (10-20K),133.33,12684,0,0,6342.0
+HYUNDAI,I40 1. 7 CRDI 136CV BLUEDRIVE TECNO,2013.0,8,Seminuevo (8-12a),350.0,Diesel,4.0,136.0,manual,Zaragoza,Profesional,4.95,Económico (<5K),36.4,13438,11,0,7049.0
+BMW,SERIE 3 320D TOURING,2015.0,6,Reciente (4-7a),222.0,Diesel,5.0,184.0,manual,Alicante,Profesional,12.49,Medio (10-20K),67.88,8037,3,0,4108.0
+HYUNDAI,TUCSON 2. 0 CLASSIC 4X2,2009.0,12,Seminuevo (8-12a),105.0,Gasolina,5.0,142.0,manual,Zaragoza,Profesional,6.5,Accesible (5-10K),45.77,33335,4,0,16788.0
+KIA,CARENS 1. 7 CRDI VGT 115CV CONCEPT ECODYNAM 5PL,2015.0,6,Reciente (4-7a),98.0,Diesel,5.0,115.0,manual,Castellon,Profesional,12.0,Medio (10-20K),104.35,4779,0,1,2490.0
+VOLKSWAGEN,SHARAN 2. 0 TDI 140CV ADVANCE,2010.0,11,Seminuevo (8-12a),224.0,Diesel,5.0,140.0,manual,Castellon,Profesional,11.5,Medio (10-20K),82.14,11829,0,0,5914.0
+PEUGEOT,2008 ALLURE 1. 6 BLUEHDI 88KW 120CV SS,2018.0,3,Casi nuevo (0-3a),60.844,Diesel,5.0,120.0,manual,Alicante,Profesional,13.1,Medio (10-20K),109.17,171931,14,4,86786.0
+HYUNDAI,TUCSON 2. 0 CDRI STYLE 4X4,2005.0,16,Clásico (>12a),150.0,Diesel,5.0,112.0,manual,Zaragoza,Profesional,5.8,Accesible (5-10K),51.79,10790,4,0,5515.0
+FORD,BMAX 1. 0 ECOBOOST 100 TREND,2013.0,8,Seminuevo (8-12a),120.0,Gasolina,5.0,100.0,manual,Alicante,Profesional,6.99,Accesible (5-10K),69.9,9584,2,0,4852.0
+RENAULT,MEGANE RENAULT SPORT 2. 0T,2004.0,17,Clásico (>12a),138.0,Gasolina,3.0,225.0,manual,Pontevedra,Profesional,9.3,Accesible (5-10K),41.33,57369,14,0,29104.0
+BMW,SERIE 1 118D M SPORT EDITION,2013.0,8,Seminuevo (8-12a),124.0,Diesel,5.0,143.0,manual,Pontevedra,Profesional,14.5,Medio (10-20K),101.4,22905,6,0,11632.0
+VOLKSWAGEN,TOUAREG 3. 0 V6 TDI 245 TIP PREMIUM BMOTION TECH,2013.0,8,Seminuevo (8-12a),158.954,Diesel,5.0,245.0,automat,Vizcaya,Profesional,21.8,Premium (20-35K),88.98,184210,24,6,93425.0
+MERCEDES-BENZ,CLASE E COUPE E 220 CDI,2013.0,8,Seminuevo (8-12a),143.9,Diesel,2.0,170.0,automat,Pontevedra,Profesional,17.9,Medio (10-20K),105.29,42506,4,0,21373.0
+HYUNDAI,I30 1. 0 TGDI ESSENCE,2019.0,2,Casi nuevo (0-3a),119.0,Gasolina,5.0,120.0,manual,Malaga,Profesional,12.9,Medio (10-20K),107.5,15999,1,0,8030.0
+HYUNDAI,I30 1. 0 TGDI NLINE,2019.0,2,Casi nuevo (0-3a),2.83,Gasolina,5.0,120.0,manual,Malaga,Profesional,15.9,Medio (10-20K),132.5,13358,1,0,6709.0
+HYUNDAI,IONIQ 1. 6 GDI PHEV TECNO DCT,2019.0,2,Casi nuevo (0-3a),13.235,Híbrido,5.0,141.0,automat,Malaga,Profesional,22.9,Premium (20-35K),162.41,13398,0,0,6699.0
+CITROEN,C3 AIRCROSS,2020.0,1,Casi nuevo (0-3a),5.0,Gasolina,5.0,110.0,manual,Sevilla,Profesional,18.195,Medio (10-20K),165.41,24939,1,0,12500.0
+FORD,KUGA 1. 6 ECOBOOST 150 ASS 4X2 TITANIUM,2015.0,6,Reciente (4-7a),128.733,Gasolina,5.0,150.0,manual,Madrid,Profesional,12.0,Medio (10-20K),80.0,49115,4,0,24678.0
+FORD,SMAX 2. 0 TDCI PANTHER 110KW TITANIUM,2020.0,1,Casi nuevo (0-3a),20.0,Diesel,5.0,150.0,manual,Madrid,Profesional,25.8,Premium (20-35K),172.0,39399,4,0,19820.0
+JEEP,COMPASS 1. 4 MAIR 125KW LIMITED 4X4 ATX,2019.0,2,Casi nuevo (0-3a),3.2,Gasolina,5.0,170.0,automat,Valencia,Profesional,28.5,Premium (20-35K),167.65,1056482,29,2,529311.0
+JEEP,RENEGADE NIGHT EAGLE II 1. 0G MT6 88KW 120CV 4X2,2020.0,1,Casi nuevo (0-3a),200.0,Gasolina,5.0,120.0,manual,Valencia,Profesional,17.9,Medio (10-20K),149.17,982818,54,0,493029.0
+PEUGEOT,407 SPORT 1. 6 HDI 110CV FAP,2009.0,12,Seminuevo (8-12a),210.0,Diesel,4.0,110.0,manual,Valladolid,Profesional,5.9,Accesible (5-10K),53.64,151167,2,0,75644.0
+AUDI,A4 3. 0 TDI QUATTRO TIPTRONIC AVANT,2006.0,15,Clásico (>12a),170.0,Diesel,5.0,204.0,automat,Valladolid,Profesional,8.9,Accesible (5-10K),43.63,315030,30,3,158715.0
+CITROEN,CELYSEE BLUEHDI 100CV EXCLUSIVE,2015.0,6,Reciente (4-7a),130.0,Diesel,4.0,100.0,manual,Madrid,Profesional,6.998,Accesible (5-10K),69.98,14050,1,0,7055.0
+SKODA,OCTAVIA,2005.0,16,Clásico (>12a),138.5,Diesel,5.0,105.0,manual,Sevilla,Profesional,4.9,Económico (<5K),46.67,50696,1,0,25378.0
+HYUNDAI,I30 1. 4 MPI ESSENCE,2018.0,3,Casi nuevo (0-3a),37.0,Gasolina,5.0,100.0,manual,Madrid,Profesional,10.99,Medio (10-20K),109.9,16060,1,0,8060.0
+OPEL,GRANDLAND X,2017.0,4,Reciente (4-7a),65.0,Diesel,5.0,120.0,manual,Madrid,Profesional,14.9,Medio (10-20K),124.17,17124,1,0,8592.0
+KIA,CEED 1. 0 TGDI 74KW 100CV CONCEPT,2020.0,1,Casi nuevo (0-3a),10.0,Gasolina,5.0,100.0,manual,Sevilla,Profesional,13.8,Medio (10-20K),138.0,20272,1,0,10166.0
+FORD,ECOSPORT 1. 5 TDCI 73KW 100CV S S TREND,2018.0,3,Casi nuevo (0-3a),27.498,Diesel,5.0,100.0,manual,Cantabria,Profesional,13.99,Medio (10-20K),139.9,6214,0,0,3107.0
+RENAULT,MEGANE ZEN BLUE DCI 85 KW 115CV,2020.0,1,Casi nuevo (0-3a),11.0,Diesel,5.0,115.0,manual,Cantabria,Profesional,18.99,Medio (10-20K),165.13,7099,0,0,3550.0
+BMW,SERIE 5 530XD,2007.0,14,Clásico (>12a),360.0,Diesel,4.0,231.0,automat,Madrid,Profesional,6.989,Accesible (5-10K),30.26,45024,3,0,22602.0
+HYUNDAI,IONIQ 1. 6 GDI HEV TECNO DCT,2018.0,3,Casi nuevo (0-3a),30.0,Híbrido,5.0,141.0,automat,Madrid,Profesional,18.99,Medio (10-20K),134.68,15011,0,0,7506.0
+AUDI,Q3 2. 0 TDI 140CV QUATTRO S TRONIC AMBIENTE,2013.0,8,Seminuevo (8-12a),133.0,Diesel,5.0,140.0,automat,Madrid,Profesional,17.5,Medio (10-20K),125.0,24145,0,0,12072.0
+AUDI,Q3 2. 0 TDI 177CV QUATTRO S TRONIC ADVANCE,2012.0,9,Seminuevo (8-12a),106.0,Diesel,5.0,177.0,automat,Madrid,Profesional,16.9,Medio (10-20K),95.48,26810,4,4,13925.0
+OPEL,VIVARO 1. 6 CDTI SS 92KW L2 2. 9T COMBI PLUS9,2017.0,4,Reciente (4-7a),36.5,Diesel,4.0,125.0,manual,Las Palmas,Profesional,17.49,Medio (10-20K),139.92,8465,1,2,4462.0
+RENAULT,CAPTUR ZEN TCE GPF 96KW 130CV,2019.0,2,Casi nuevo (0-3a),3.896,Gasolina,5.0,130.0,automat,Salamanca,Profesional,21.0,Premium (20-35K),161.54,10569,0,0,5284.0
+FORD,FOCUS 1. 0 ECOBOOST MHEV 92KW STLINE,2021.0,0,Casi nuevo (0-3a),1.0,Híbrido,5.0,125.0,manual,Segovia,Profesional,18.0,Medio (10-20K),144.0,7073,1,0,3566.0
+KIA,SPORTAGE 1. 6 GDI 97KW 132CV DRIVE 4X2,2019.0,2,Casi nuevo (0-3a),11.138,Gasolina,5.0,132.0,manual,Sevilla,Profesional,17.99,Medio (10-20K),136.29,49802,4,1,25121.0
+SEAT,LEON ST 1. 6 TDI 85KW 115CV STSP STYLE,2017.0,4,Reciente (4-7a),75.304,Diesel,5.0,115.0,manual,Cantabria,Profesional,12.49,Medio (10-20K),108.61,12160,2,0,6140.0
+MERCEDES-BENZ,CLASE C C 180 CGI BE AVANT. BLUE EFFICIENCY ED.,2010.0,11,Seminuevo (8-12a),66.0,Gasolina,4.0,156.0,manual,Alicante,Profesional,11.49,Medio (10-20K),73.65,33700,19,2,17620.0
+FORD,KAPLUS 1. 2 TIVCT 51KW ULTIMATE,2018.0,3,Casi nuevo (0-3a),19.0,Gasolina,5.0,85.0,manual,Segovia,Profesional,7.7,Accesible (5-10K),90.59,22853,1,1,11556.0
+TOYOTA,LAND CRUISER 3. 0 D4D KX,2007.0,14,Clásico (>12a),304.657,Diesel,5.0,166.0,manual,Salamanca,Profesional,12.0,Medio (10-20K),72.29,169238,12,10,85979.0
+FORD,MONDEO 1. 5 TDCI 88KW 120CV BUSINESS,2017.0,4,Reciente (4-7a),97.249,Diesel,5.0,120.0,manual,Vizcaya,Profesional,12.4,Medio (10-20K),103.33,1080,0,0,540.0
+RENAULT,TALISMAN SPORT TOURER 1. 6 ZEN ENERGY DCI 130,2016.0,5,Reciente (4-7a),93.072,Diesel,5.0,130.0,manual,Vizcaya,Profesional,11.74,Medio (10-20K),90.31,1083,0,0,542.0
+OPEL,CABRIO 1. 6 T 125KW 170CV EXCELLENCE AUTO,2017.0,4,Reciente (4-7a),72.626,Gasolina,2.0,170.0,automat,Vizcaya,Profesional,13.56,Medio (10-20K),79.76,830,0,0,415.0
+PEUGEOT,E208,2021.0,0,Casi nuevo (0-3a),82.6,Híbrido,5.0,136.0,automat,Malaga,Profesional,27.5,Premium (20-35K),202.21,8096,0,0,4048.0
+BMW,COMPACT 320TD COMPACT,2004.0,17,Clásico (>12a),350.0,Diesel,3.0,150.0,manual,Madrid,Profesional,2.498,Económico (<5K),16.65,70398,10,2,35699.0
+MERCEDES-BENZ,CLASE E E 220 D,2016.0,5,Reciente (4-7a),68.0,Diesel,4.0,194.0,automat,Murcia,Profesional,36.49,Lujo (>35K),188.09,2353,0,0,1176.0
+NISSAN,NOTE 5P. 1. 5DCI 90CV ACENTA,2016.0,5,Reciente (4-7a),123.0,Diesel,5.0,90.0,manual,Granada,Profesional,6.99,Accesible (5-10K),77.67,3705,0,0,1852.0
+FIAT,500 LOUNGE 09 63KW 85 CV,2019.0,2,Casi nuevo (0-3a),40.89,Gasolina,3.0,85.0,manual,Las Palmas,Profesional,9.99,Accesible (5-10K),117.53,6497,2,0,3308.0
+DACIA,SANDERO AMBIANCE 1. 2 16V 75CV E5,2012.0,9,Seminuevo (8-12a),140.0,Gasolina,5.0,75.0,manual,Madrid,Profesional,3.498,Económico (<5K),46.64,15865,1,1,8062.0
+MINI,MINI ONE,2004.0,17,Clásico (>12a),148.0,Gasolina,3.0,90.0,manual,Barcelona,Profesional,4.9,Económico (<5K),54.44,3181,0,0,1590.0
+PEUGEOT,2008 ALLURE 1. 2 PURETECH 81KW 110CV SS,2017.0,4,Reciente (4-7a),51.0,Gasolina,5.0,110.0,manual,Madrid,Profesional,11.9,Medio (10-20K),108.18,19882,3,1,10131.0
+HYUNDAI,TUCSON 1. 7CRDI 85KW 115CV BD 25 ANIVERSA. 4X2,2018.0,3,Casi nuevo (0-3a),35.0,Diesel,5.0,115.0,manual,Madrid,Profesional,19.5,Medio (10-20K),169.57,22577,1,1,11418.0
+FORD,FIESTA 1. 6 TDCI DPF TITANIUM,2011.0,10,Seminuevo (8-12a),105.495,Diesel,5.0,95.0,manual,Murcia,Profesional,6.89,Accesible (5-10K),72.53,3367,1,1,1814.0
+RENAULT,CLIO EXPRESSION 1. 2 16V 75CV 5P. ECO2,2009.0,12,Seminuevo (8-12a),45.0,Gasolina,5.0,75.0,manual,Zaragoza,Profesional,5.49,Accesible (5-10K),73.2,9899,1,0,4980.0
+NISSAN,PRIMERA 1. 9 DCI VISIA,2006.0,15,Clásico (>12a),170.0,Diesel,5.0,120.0,manual,Madrid,Profesional,2.998,Económico (<5K),24.98,31497,3,1,15938.0
+FIAT,PANDA 1. 2 POP 51KW 69CV EU6,2017.0,4,Reciente (4-7a),62.0,Gasolina,5.0,69.0,manual,Baleares,Profesional,6.6,Accesible (5-10K),95.65,13800,3,1,7090.0
+BMW,COMPACT 320TD COMPACT,2004.0,17,Clásico (>12a),350.0,Diesel,3.0,150.0,manual,Madrid,Profesional,2.498,Económico (<5K),16.65,70400,10,2,35700.0
+OPEL,GRANDLAND X,2019.0,2,Casi nuevo (0-3a),11.0,Diesel,5.0,130.0,manual,Jaen,Profesional,20.9,Premium (20-35K),160.77,96289,3,0,48234.0
+FORD,FOCUS CMAX 1. 6 TDCI TREND,2003.0,18,Clásico (>12a),180.0,Diesel,5.0,109.0,manual,Zaragoza,Profesional,2.999,Económico (<5K),27.51,10908,0,0,5454.0
+FIAT,500 LOUNGE 1. 2 8V 51KW 69 CV,2019.0,2,Casi nuevo (0-3a),25.9,Gasolina,3.0,69.0,manual,Valencia,Profesional,9.0,Accesible (5-10K),130.43,44496,0,0,22248.0
+FORD,FIESTA 1. 0 ECOBOOST 100CV POWERSHIFT TREND 5P,2015.0,6,Reciente (4-7a),78.0,Gasolina,5.0,100.0,manual,Castellon,Profesional,8.5,Accesible (5-10K),85.0,10859,0,0,5430.0
+RENAULT,CAPTUR ZEN BLUE DCI 85KW 115CV EDC,2020.0,1,Casi nuevo (0-3a),11.338,Diesel,5.0,115.0,automat,Cantabria,Profesional,19.99,Medio (10-20K),173.83,8544,2,1,4432.0
+OPEL,INSIGNIA GS 1. 6 CDTI 100KW TURBO D EXCELLENCE,2018.0,3,Casi nuevo (0-3a),73.79,Diesel,5.0,136.0,manual,Cantabria,Profesional,16.49,Medio (10-20K),121.25,7900,1,0,3980.0
+NISSAN,JUKE 1. 2 DIGT NTEC 4X2 EXT1 BLANCO,2014.0,7,Reciente (4-7a),135.0,Gasolina,5.0,115.0,manual,Lleida,Profesional,9.9,Accesible (5-10K),86.09,10336,3,0,5258.0
+CITROEN,BERLINGO MULTISPACE LIVE BLUEHDI 75,2016.0,5,Reciente (4-7a),133.0,Diesel,4.0,75.0,manual,Ciudad Real,Profesional,7.99,Accesible (5-10K),106.53,82039,11,6,41950.0
+PEUGEOT,407 SW SPORT 2. 2 HDI 170CV FAP,2008.0,13,Clásico (>12a),185.0,Diesel,5.0,170.0,manual,Zaragoza,Profesional,4.999,Económico (<5K),29.41,27127,2,1,13724.0
+MERCEDES-BENZ,CLASE E CABRIO E 220 CDI,2014.0,7,Reciente (4-7a),122.0,Diesel,2.0,170.0,automat,Zaragoza,Profesional,24.999,Premium (20-35K),147.05,35484,17,3,18552.0
+AUDI,A3 S LINE 30 TFSI 85KW S TRONIC SPORTBACK,2018.0,3,Casi nuevo (0-3a),68.657,Gasolina,5.0,116.0,manual,Vizcaya,Profesional,18.11,Medio (10-20K),156.12,1052,0,0,526.0
+RENAULT,KADJAR BUSINESS ENERGY DCI 81KW 110CV EDC,2018.0,3,Casi nuevo (0-3a),97.5,Diesel,5.0,110.0,manual,Vizcaya,Profesional,13.92,Medio (10-20K),126.55,812,0,0,406.0
+AUDI,A1 SPORTBACK 1. 0 TFSI ATTRACTION,2016.0,5,Reciente (4-7a),112.833,Gasolina,5.0,95.0,manual,Vizcaya,Profesional,12.51,Medio (10-20K),131.68,1316,0,0,658.0
+SAAB,93 SPORT HATCH LINEAR SPORT 1. 9 TID,2007.0,14,Clásico (>12a),100.0,Diesel,5.0,150.0,manual,Madrid,Profesional,4.998,Económico (<5K),33.32,13703,2,1,7012.0
+DACIA,SANDERO STEPWAY TCE 90,2014.0,7,Reciente (4-7a),65.9,Gasolina,5.0,90.0,manual,Las Palmas,Profesional,7.49,Accesible (5-10K),83.22,7802,1,0,3931.0
+FIAT,500 0. 9 TURBO TWINAIR 77KW 105CV LOUNGE,2017.0,4,Reciente (4-7a),66.42,Gasolina,3.0,105.0,manual,Las Palmas,Profesional,8.49,Accesible (5-10K),80.86,8317,5,0,4308.0
+SUZUKI,SWIFT 1. 2 GLE MILD HYBRID,2021.0,0,Casi nuevo (0-3a),1.0,Híbrido,5.0,83.0,manual,Madrid,Profesional,13.55,Medio (10-20K),163.25,22508,1,0,11284.0
+BMW,SERIE 1 114I,2014.0,7,Reciente (4-7a),219.0,Gasolina,3.0,102.0,manual,Tarragona,Profesional,8.1,Accesible (5-10K),79.41,44273,2,0,22196.0
+SUZUKI,SWACE,2020.0,1,Casi nuevo (0-3a),1.0,Híbrido,5.0,122.0,automat,Madrid,Profesional,20.99,Premium (20-35K),172.05,19417,1,0,9738.0
+SUZUKI,VITARA 1. 4 T GLE MID HYBRID,2020.0,1,Casi nuevo (0-3a),1.0,Híbrido,5.0,129.0,manual,Madrid,Profesional,20.19,Premium (20-35K),156.51,31114,0,0,15557.0
+SUZUKI,VITARA 1. 4 T GLX MILD HYBRID,2020.0,1,Casi nuevo (0-3a),1.0,Híbrido,5.0,129.0,manual,Madrid,Profesional,20.69,Premium (20-35K),160.39,25680,0,0,12840.0
+SEAT,IBIZA SC 1. 2 12V 70CV REFERENCE,2014.0,7,Reciente (4-7a),45.0,Gasolina,3.0,70.0,manual,Madrid,Profesional,6.9,Accesible (5-10K),98.57,24681,1,0,12370.0
+CITROEN,C4 PICASSO PURETECH 130 SS 6V INTENSIVE,2015.0,6,Reciente (4-7a),97.0,Gasolina,5.0,130.0,manual,Madrid,Profesional,10.49,Medio (10-20K),80.69,18630,0,0,9315.0
+HYUNDAI,I30 1. 6 GDI BLUEDRIVE TECNO,2014.0,7,Reciente (4-7a),100.0,Gasolina,5.0,135.0,manual,Madrid,Profesional,9.9,Accesible (5-10K),73.33,15069,0,0,7534.0
+FORD,CMAX 1. 0 ECOBOOST 125 AUTO STARTST. TITANIUM,2018.0,3,Casi nuevo (0-3a),61.01,Gasolina,5.0,125.0,manual,Barcelona,Profesional,12.69,Medio (10-20K),101.52,10844,1,0,5452.0
+KIA,CARENS 1. 7 CRDI VGT 136CV EMOTION ECODYNAM 7PL,2015.0,6,Reciente (4-7a),39.5,Diesel,5.0,136.0,manual,Murcia,Profesional,14.49,Medio (10-20K),106.54,4177,0,0,2088.0
+KIA,STONIC,2019.0,2,Casi nuevo (0-3a),11.5,Gasolina,5.0,120.0,manual,Sevilla,Profesional,16.99,Medio (10-20K),141.58,12958,1,0,6509.0
+RENAULT,TALISMAN ZEN BLUE DCI 110 KW 150CV,2019.0,2,Casi nuevo (0-3a),18.051,Diesel,4.0,150.0,manual,Cantabria,Profesional,21.99,Premium (20-35K),146.6,6636,0,0,3318.0
+LAND-ROVER,RANGE ROVER VELAR,2020.0,1,Casi nuevo (0-3a),7.6,Diesel,5.0,240.0,automat,Alicante,Profesional,65.9,Lujo (>35K),274.58,180795,8,1,90738.0
+NISSAN,QASHQAI DIGT 116 KW 160 CV E6D DCT NSTYLE,2020.0,1,Casi nuevo (0-3a),3.365,Gasolina,5.0,158.0,manual,Barcelona,Profesional,20.69,Premium (20-35K),130.95,10981,0,0,5490.0
+CITROEN,C3 AIRCROSS,2018.0,3,Casi nuevo (0-3a),35.022,Diesel,5.0,102.0,manual,Sevilla,Profesional,15.7,Medio (10-20K),153.92,269622,1,1,134941.0
+MAZDA,CX3 2. 0 SKYACTIV GE 88KW STYLE 2WD,2016.0,5,Reciente (4-7a),75.457,Gasolina,5.0,120.0,manual,Las Palmas,Profesional,11.99,Medio (10-20K),99.92,122950,13,1,61965.0
+RENAULT,TWINGO VIBES 60 KW R80 BATERIA 20KWH,2020.0,1,Casi nuevo (0-3a),65.0,Híbrido,5.0,82.0,automat,Cantabria,Profesional,19.99,Medio (10-20K),243.78,6531,1,0,3296.0
+MERCEDES-BENZ,CLASE E E 300 BLUETEC HYBRID AVANTGARDE PLUS,2014.0,7,Reciente (4-7a),130.0,Híbrido,4.0,231.0,automat,Madrid,Profesional,22.499,Premium (20-35K),97.4,24592,3,0,12386.0
+PEUGEOT,307 2. 0 HDI 90 XR,2002.0,19,Clásico (>12a),340.0,Diesel,5.0,90.0,manual,Madrid,Profesional,1.298,Económico (<5K),14.42,55783,13,7,28982.0
+CITROEN,C4 PICASSO 1. 6 HDI CMP EXCLUSIVE PLUS,2008.0,13,Clásico (>12a),110.0,Diesel,5.0,110.0,automat,Baleares,Profesional,5.8,Accesible (5-10K),52.73,202585,7,2,101702.0
+RENAULT,TALISMAN ZEN BLUE DCI 110 KW 150CV,2019.0,2,Casi nuevo (0-3a),13.361,Diesel,4.0,150.0,manual,Cantabria,Profesional,18.99,Medio (10-20K),126.6,7106,0,0,3553.0
+PEUGEOT,508 SW ACTIVE PURETECH 132KW180CV SS EAT8,2020.0,1,Casi nuevo (0-3a),1.0,Gasolina,5.0,180.0,automat,Barcelona,Profesional,22.39,Premium (20-35K),124.39,12042,2,0,6081.0
+HYUNDAI,I10 1. 2 LINK,2018.0,3,Casi nuevo (0-3a),95.207,Gasolina,5.0,87.0,manual,Jaen,Profesional,6.9,Accesible (5-10K),79.31,111037,8,3,56058.0
+PEUGEOT,208 5P ACTIVE BLUEHDI 55KW 75CV,2018.0,3,Casi nuevo (0-3a),68.354,Diesel,5.0,75.0,manual,Barcelona,Profesional,7.99,Accesible (5-10K),106.53,29194,3,0,14687.0
+PEUGEOT,308 5P ALLURE 1. 6 BLUEHDI 120,2016.0,5,Reciente (4-7a),98.792,Diesel,5.0,120.0,manual,Barcelona,Profesional,9.79,Accesible (5-10K),81.58,21994,5,1,11247.0
+KIA,CEED TOURER,2019.0,2,Casi nuevo (0-3a),24.2,Diesel,5.0,136.0,automat,Sevilla,Profesional,21.99,Premium (20-35K),161.69,48600,5,0,24450.0
+RENAULT,ZOE INTENS 80 KW R110 BATERIA 50KWH,2020.0,1,Casi nuevo (0-3a),11.539,Híbrido,5.0,108.0,automat,Cantabria,Profesional,14.49,Medio (10-20K),134.17,7868,2,0,3994.0
+PEUGEOT,208 PURETECH 73KW 100CV ALLURE,2020.0,1,Casi nuevo (0-3a),22.055,Gasolina,5.0,100.0,manual,Cantabria,Profesional,14.29,Medio (10-20K),142.9,9235,0,1,4718.0
+PEUGEOT,308 SW BUSINESS LINE BLUEHDI 73KW 100CV,2018.0,3,Casi nuevo (0-3a),76.0,Diesel,5.0,100.0,manual,Castellon,Profesional,13.0,Medio (10-20K),130.0,6777,0,0,3388.0
+FIAT,500 LOUNGE 1. 2 8V 51KW 69 CV,2019.0,2,Casi nuevo (0-3a),19.25,Gasolina,3.0,69.0,manual,Valencia,Profesional,9.0,Accesible (5-10K),130.43,50750,1,0,25405.0
+FIAT,500 LOUNGE 1. 2 8V 51KW 69 CV,2019.0,2,Casi nuevo (0-3a),22.7,Gasolina,3.0,69.0,manual,Valencia,Profesional,9.0,Accesible (5-10K),130.43,43057,2,1,21688.0
+AUDI,A3 30 TFSI 85KW 116CV S TRONIC SPORTBACK,2019.0,2,Casi nuevo (0-3a),19.807,Gasolina,5.0,116.0,automat,Lleida,Profesional,23.9,Premium (20-35K),206.03,7969,0,0,3984.0
+MINI,MINI ONE D,2016.0,5,Reciente (4-7a),130.155,Diesel,3.0,95.0,manual,Madrid,Profesional,11.49,Medio (10-20K),120.95,175,0,0,88.0
+PEUGEOT,2008 ALLURE 1. 6 BLUEHDI 88KW 120CV SS,2017.0,4,Reciente (4-7a),132.0,Diesel,5.0,120.0,manual,Castellon,Profesional,12.8,Medio (10-20K),106.67,7819,0,0,3910.0
+MERCEDES-BENZ,CLASE V 220 D CLASE V LARGO,2018.0,3,Casi nuevo (0-3a),37.967,Diesel,4.0,163.0,automat,Barcelona,Profesional,35.9,Lujo (>35K),220.25,124312,3,0,62246.0
+PEUGEOT,308 CONFORT 1. 6 VTI 120,2008.0,13,Clásico (>12a),135.0,Gasolina,5.0,120.0,manual,Zaragoza,Profesional,5.3,Accesible (5-10K),44.17,48514,3,0,24347.0
+TOYOTA,RAV4 2. 2 D4D ADVANCE 4X2,2011.0,10,Seminuevo (8-12a),155.0,Diesel,5.0,150.0,manual,Zaragoza,Profesional,9.998,Accesible (5-10K),66.65,21376,4,0,10808.0
+VOLKSWAGEN,PASSAT VARIANT ADVANCE 2. 0 TDI 110KW150CV BMT,2016.0,5,Reciente (4-7a),182.0,Diesel,5.0,150.0,manual,Castellon,Profesional,10.9,Medio (10-20K),72.67,19062,3,1,9721.0
+RENAULT,MEGANE S. T. BOSE BLUE DCI 85 KW 115CV EDC,2019.0,2,Casi nuevo (0-3a),22.073,Diesel,5.0,115.0,automat,Cantabria,Profesional,17.99,Medio (10-20K),156.43,10355,0,0,5178.0
+HYUNDAI,IX20 1. 4 MPI BLUEDRIVE 25 ANIVERSARIO,2018.0,3,Casi nuevo (0-3a),18.01,Gasolina,5.0,90.0,manual,Madrid,Profesional,11.79,Medio (10-20K),131.0,122641,2,0,61380.0
+FIAT,500L 1. 6 16V MULTIJET II 105CV SS LOUNGE,2015.0,6,Reciente (4-7a),23.0,Diesel,5.0,105.0,manual,Valencia,Profesional,12.5,Medio (10-20K),119.05,18514,1,0,9287.0
+FORD,KUGA 1. 6 ECOBOOST 150 ASS 4X2 TITANIUM,2015.0,6,Reciente (4-7a),128.733,Gasolina,5.0,150.0,manual,Segovia,Profesional,12.0,Medio (10-20K),80.0,26807,1,0,13434.0
+FORD,KUGA STLINE X 2. 0 ECOBLUE MHEV 110KW 150CV,2020.0,1,Casi nuevo (0-3a),10.0,Híbrido,5.0,150.0,manual,Segovia,Profesional,27.9,Premium (20-35K),186.0,22296,0,0,11148.0
+AUDI,S3,2018.0,3,Casi nuevo (0-3a),35.0,Gasolina,5.0,140.0,automat,Alicante,Profesional,38.99,Lujo (>35K),278.5,59047,3,1,29714.0
+NISSAN,QASHQAI DCI 85 KW 115 CV E6D ACENTA,2019.0,2,Casi nuevo (0-3a),19.164,Diesel,5.0,115.0,manual,Jaen,Profesional,20.5,Premium (20-35K),178.26,154833,3,0,77506.0
+SSANGYONG,RODIUS 270XDI LIMITED,2012.0,9,Seminuevo (8-12a),125.0,Diesel,5.0,165.0,manual,Zaragoza,Profesional,9.9,Accesible (5-10K),60.0,15247,0,0,7624.0
+BMW,SERIE 7 730LDA XDRIVE,2015.0,6,Reciente (4-7a),318.0,Diesel,4.0,265.0,automat,Zaragoza,Profesional,29.999,Premium (20-35K),113.2,104853,17,0,52936.0
+MASERATI,GRANCABRIO 4. 7 V8 AUTOMATICO,2014.0,7,Reciente (4-7a),19.0,Gasolina,2.0,450.0,automat,Alicante,Profesional,73.8,Lujo (>35K),164.0,73055,6,4,37108.0
+SEAT,IBIZA 1. 0 55KW 75CV STYLE,2018.0,3,Casi nuevo (0-3a),58.63,Gasolina,5.0,75.0,manual,Vizcaya,Profesional,9.8,Accesible (5-10K),130.67,974,0,0,487.0
+CITROEN,C4 PICASSO BLUEHDI 100CV SS LIVE,2016.0,5,Reciente (4-7a),84.752,Diesel,5.0,99.0,manual,Vizcaya,Profesional,10.6,Medio (10-20K),107.07,745,0,0,372.0
+HYUNDAI,I30 1. 0 TGDI TECNO TECH,2018.0,3,Casi nuevo (0-3a),21.0,Gasolina,5.0,120.0,manual,Vizcaya,Profesional,13.56,Medio (10-20K),113.0,725,0,0,362.0
+CITROEN,CELYSEE PURETECH 60KW 82CV SHINE,2018.0,3,Casi nuevo (0-3a),82.447,Gasolina,4.0,82.0,manual,Vizcaya,Profesional,9.01,Accesible (5-10K),109.88,585,0,0,292.0
+PEUGEOT,E2008,2020.0,1,Casi nuevo (0-3a),82.6,Híbrido,5.0,136.0,automat,Malaga,Profesional,30.7,Premium (20-35K),225.74,9204,1,0,4632.0
+FORD,KUGA 2. 0 TDCI 2WD TREND,2010.0,11,Seminuevo (8-12a),127.0,Diesel,5.0,136.0,manual,Murcia,Profesional,11.49,Medio (10-20K),84.49,1910,0,0,955.0
+SSANGYONG,RODIUS 270XDI,2009.0,12,Seminuevo (8-12a),110.0,Diesel,5.0,165.0,manual,Madrid,Profesional,6.998,Accesible (5-10K),42.41,10483,0,0,5242.0
+TOYOTA,LAND CRUISER 90 3. 0 TD GX,1997.0,24,Clásico (>12a),350.0,Diesel,5.0,125.0,manual,Madrid,Profesional,6.998,Accesible (5-10K),55.98,23259,0,1,11730.0
+HYUNDAI,I20 1. 2 MPI ESSENCE,2017.0,4,Reciente (4-7a),56.7,Gasolina,5.0,84.0,manual,Las Palmas,Profesional,7.49,Accesible (5-10K),89.17,5913,0,0,2956.0
+OPEL,CORSA 1. 4 COLOR EDITION 66KW 90CV,2017.0,4,Reciente (4-7a),78.4,Gasolina,5.0,90.0,manual,Las Palmas,Profesional,7.99,Accesible (5-10K),88.78,6040,0,0,3020.0
+RENAULT,TWINGO GT TCE 81KW 110CV 18,2018.0,3,Casi nuevo (0-3a),48.085,Gasolina,5.0,110.0,manual,Las Palmas,Profesional,9.99,Accesible (5-10K),90.82,7239,0,0,3620.0
+SUZUKI,VITARA 1. 4 T GLX MILD HYBRID,2020.0,1,Casi nuevo (0-3a),1.0,Híbrido,5.0,129.0,manual,Madrid,Profesional,21.4,Premium (20-35K),165.89,33599,0,0,16800.0
+SUZUKI,VITARA 1. 4 T GLX MILD HYBRID,2020.0,1,Casi nuevo (0-3a),1.0,Híbrido,5.0,129.0,manual,Madrid,Profesional,21.79,Premium (20-35K),168.91,29727,0,0,14864.0
+SUZUKI,SWACE,2020.0,1,Casi nuevo (0-3a),2.5,Híbrido,5.0,122.0,automat,Madrid,Profesional,20.69,Premium (20-35K),169.59,20109,2,0,10114.0
+SUZUKI,SWIFT 1. 2 GLX MILD HYBRID CVT,2020.0,1,Casi nuevo (0-3a),3.0,Híbrido,5.0,83.0,automat,Madrid,Profesional,15.17,Medio (10-20K),182.77,18091,1,0,9076.0
+VOLKSWAGEN,GOLF 2. 0 TSI 230CV DSG GTI PERFORMANCE BMT,2014.0,7,Reciente (4-7a),98.0,Gasolina,3.0,230.0,automat,Pontevedra,Profesional,18.99,Medio (10-20K),82.57,44816,50,11,25008.0
+SUZUKI,SCROSS 1. 4 DITC GLX MID HYBRID,2020.0,1,Casi nuevo (0-3a),1.0,Híbrido,5.0,129.0,manual,Madrid,Profesional,21.4,Premium (20-35K),165.89,15104,0,0,7552.0
+PEUGEOT,308 SW STYLE 1. 2 PURETECH 96KW 130CV SS,2017.0,4,Reciente (4-7a),104.0,Gasolina,5.0,130.0,manual,Madrid,Profesional,10.5,Medio (10-20K),80.77,16256,0,0,8128.0
+SUZUKI,ACROSS,2020.0,1,Casi nuevo (0-3a),1.0,Híbrido,5.0,306.0,automat,Madrid,Profesional,45.89,Lujo (>35K),149.97,14812,0,0,7406.0
