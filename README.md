@@ -43,6 +43,44 @@ Los mandos intermedios reciben informes tabulares estáticos que dificultan:
 - **Visualizaciones:** mínimo 4 gráficos interactivos interconectados
 - **Filtros:** segmentación por marca, combustible, ubicación y segmento de precio
 ---
+## 🔀 Fusión de Datasets
+
+### Datasets utilizados
+| Dataset | Fuente | Registros | Plataforma |
+|---|---|---|---|
+| Milanuncios | https://zenodo.org/records/4674757 | 498 | Milanuncios.com |
+| Flexicar | https://zenodo.org/records/6438480 | 791 | Flexicar.es |
+| **Dataset fusionado** | `data/coches_fusionado.csv` | **1.289** | Ambas |
+
+### Por qué se fusionaron
+El dataset original de Milanuncios contaba con 498 registros, por debajo del 
+mínimo de 1.000 recomendado para un análisis estadístico robusto. Se incorporó 
+el dataset de Flexicar Barcelona para ampliar el volumen y enriquecer el análisis.
+
+### Por qué se usó Python script en lugar de Jupyter Notebook
+La fusión se ejecutó mediante el script `notebooks/02_fusion_datasets.py` en 
+lugar de un notebook `.ipynb` debido a incompatibilidades del kernel Jupyter 
+con Python 3.14 en el entorno Windows. El script es reproducible, documentado 
+y produce resultados idénticos a un notebook.
+
+### Proceso de limpieza del dataset Flexicar
+| Acción | Columna | Criterio |
+|---|---|---|
+| Renombrado de columnas | Todas | Estandarización al esquema de Milanuncios |
+| Conversión de precio | `precio` | De € completos a K€ (÷1000) |
+| Cálculo de antigüedad | `antiguedad` | 2021 - año de fabricación |
+| Estandarización de texto | `marca`, `combustible`, `transmision` | Capitalización uniforme |
+| Imputación de columnas ausentes | `cv`, `precio_por_cv` | Flexicar no incluye potencia |
+| Columna de fuente | `fuente` | Identifica origen del registro |
+
+### Calidad del dataset fusionado
+| Métrica | Valor |
+|---|---|
+| Total registros | 1.289 |
+| Duplicados | 0 |
+| Nulos críticos (precio, km) | 0 |
+| Nulos en cv | 791 (61.4%) — solo registros Flexicar |
+| Precio medio | 15,49 K€ |
 
 ## 📁 Estructura del repositorio
 
