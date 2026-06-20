@@ -29,7 +29,7 @@
 7. [Gobernanza y sesgos](#7-gobernanza-y-sesgos)
 8. [Recomendaciones estratégicas](#8-recomendaciones-estratégicas)
 9. [Estructura del repositorio](#9-estructura-del-repositorio)
-10. [Despliegue](#10-despliegue)
+10. [Vista previa del Dashboard](#10-vista-previa-del-dashboard)
 11. [Autora](#11-autora)
 
 ---
