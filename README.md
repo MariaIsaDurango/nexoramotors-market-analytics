@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img_logo/LogoNexora_Motors.png" width="250"/>
+  <img src="img_logo/logofondoBLancoNexora_Motors.png" width="250"/>
 </p>
 
 # 🚗 Nexora Motors — Market Analytics Dashboard
