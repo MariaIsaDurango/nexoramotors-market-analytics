@@ -1,3 +1,5 @@
+img_logo/LogoNexora_Motors.png
+
 # 🚗 Nexora Motors — Market Analytics Dashboard
 
 > Cuadro de mando interactivo y análisis estratégico del mercado de 
